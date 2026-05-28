@@ -40,11 +40,12 @@
             },
             {
               "id": "site_1769821731276_mttugwksa",
-              "title": "NavSphere后端",
+              "title": "NavSphere",
               "description": "A modern navigation platform",
               "url": "https://navsphere-94m.pages.dev/admin",
               "icon": "https://navsphere-94m.pages.dev/favicon.ico",
-              "tags": []
+              "tags": [],
+              "previewImage": "/uploads/preview-navsphere-94m-pages-5e3f2e3277ac.webp"
             },
             {
               "id": "site_1770364061702_c3wd9hany",
@@ -219,7 +220,7 @@
               "title": "飞书",
               "description": "",
               "url": "https://accounts.feishu.cn/accounts/page/login?app_id=2&no_trap=1&query_scope=all&redirect_uri=https%3A%2F%2Fr0whfkbgrfy.feishu.cn%2Fdrive%2Fhome%2F%3Flogin_redirect_times%3D1",
-              "icon": "/uploads/favicon-f93aee8eba30.png",
+              "icon": "/uploads/favicon-10d1beb40c1f.png",
               "tags": [],
               "previewImage": "/uploads/preview-accounts-feishu-cn-e0fe82e98596.webp"
             },
@@ -653,7 +654,7 @@
               "title": "Outlook",
               "description": "",
               "url": "https://outlook.live.com/mail/0/",
-              "icon": "/assets/favicon_1769930314262.png",
+              "icon": "/uploads/favicon-e35d94b76894.ico",
               "tags": [],
               "previewImage": "/uploads/preview-outlook-live-com-b9874608e82d.webp"
             },
@@ -662,7 +663,7 @@
               "title": "DeepL翻译器",
               "description": "即时翻译文本&amp;完整的文档文件。为个人和团队提供准确的翻译。每天有数百万人使用DeepL进行翻译。",
               "url": "https://www.deepl.com/zh/translator",
-              "icon": "/uploads/favicon-d499b7c67074.png",
+              "icon": "/uploads/favicon-e72a00b3080c.png",
               "tags": [],
               "previewImage": "/uploads/preview-www-deepl-com-b567417ade93.webp"
             },
@@ -1145,7 +1146,7 @@
               "title": "问小白： 探索世界的AI搭子",
               "description": "问小白 - 主动型AI助手，探索世界的AI搭子。顶级大模型免费使用，Deepseek R1/V3/V3.1、问小白5对标Openai-GPT5，支持AI联网搜索、AI学术搜索，Deep Research，AI图片编辑和生成，AI 智能体情感陪伴",
               "url": "https://www.wenxiaobai.com/",
-              "icon": "/uploads/favicon-dcb05e9a575c.png",
+              "icon": "/uploads/favicon-ae9f1515bcd6.png",
               "tags": [],
               "previewImage": "/uploads/preview-www-wenxiaobai-com-fcfd1b745dea.webp"
             },
@@ -1214,7 +1215,7 @@
               "title": "TRAE",
               "description": "TRAE AI IDE | 国内首款 AI 原生集成开发环境，深度集成 Doubao-1.5-pro 与 DeepSeek 模型，支持中文自然语言一键生成完整代码框架，实时预览前端效果并智能修复 BUG。首创 Builder 模式实现需求到代码的自动化开发，兼容 Windows/macOS 系统，官网下载即用。",
               "url": "https://www.trae.cn/?utm_source=advertising&utm_medium=aibot_ug_cpa&utm_term=hw_trae_aibot",
-              "icon": "/uploads/favicon-280e5d027efe.png",
+              "icon": "/uploads/favicon-e9e531b2a6fb.png",
               "tags": [],
               "previewImage": "/uploads/preview-www-trae-cn-d1f995016700.webp"
             },
@@ -1278,7 +1279,7 @@
               "url": "https://www.chat-ppt.com/",
               "icon": "/uploads/favicon-5d8931219f02.ico",
               "tags": [],
-              "previewImage": "/uploads/preview-www-chat-ppt-com-ee2c0e01020c.webp"
+              "previewImage": "/uploads/preview-www-chat-ppt-com-151d51bb174d.webp"
             }
           ]
         }
@@ -1453,7 +1454,7 @@
               "title": "Redis 中文教程",
               "description": "Redis 中文教程 - Redis中文学习网提供Redis教程、命令手册、安装配置、性能优化、集群搭建等中文文档。",
               "url": "https://redis.com.cn/tutorial.html",
-              "icon": "/uploads/favicon-5a7d8308d545.png",
+              "icon": "/uploads/favicon-4bcfc299a6e5.png",
               "tags": [],
               "previewImage": "/uploads/preview-redis-com-cn-312f0a72c172.webp"
             },
@@ -1507,7 +1508,7 @@
               "title": "uni",
               "description": "uni-app,uniCloud,serverless,快速体验,看视频，10分钟了解uni-app,为什么要选择uni-app？,功能框架图,一套代码，运行到多个平台",
               "url": "https://uniapp.dcloud.net.cn/",
-              "icon": "/uploads/favicon-1142f37611a7.png",
+              "icon": "/uploads/favicon-7639f4c9899c.png",
               "tags": [],
               "previewImage": "/uploads/preview-uniapp-dcloud-net-cn-ee2e48dc7d80.webp"
             },
@@ -1552,7 +1553,7 @@
               "title": "OpenAPI 规范",
               "description": "OpenAPI 规范（中文版）（Swagger 规范中文版）",
               "url": "https://openapi.apifox.cn/",
-              "icon": "/uploads/favicon-24c496399112.png",
+              "icon": "/uploads/favicon-7650ac2e0ab6.png",
               "tags": [],
               "previewImage": "/uploads/preview-openapi-apifox-cn-73a18d3bd360.webp"
             },
@@ -1807,7 +1808,7 @@
               "title": "PDF24 Tools: Free PDF solutions for all PDF problems",
               "description": "Free online PDF tools to merge, compress, create, edit and convert PDFs. ✓ No limits and no watermarks. ✓ No installation or registration required.",
               "url": "https://tools.pdf24.org/en/",
-              "icon": "/uploads/favicon-bf9bc4e50d36.png",
+              "icon": "/uploads/favicon-9de292a3fc42.png",
               "tags": [],
               "previewImage": "/uploads/preview-tools-pdf24-org-917ace4675d2.webp"
             },
@@ -1822,8 +1823,8 @@
             },
             {
               "id": "site_1769930784702_hnm8vxr33",
-              "title": "iP地址查询",
-              "description": "公网ip地址归属地查询",
+              "title": "IP属地 IP属地查询 IP归属地查询 IP地址归属地查询",
+              "description": "IP归属地查询是一个iP地址查询网站,通过IP查询出具体的归属地、运营商、网络类型等数据，IP属地查询支持ipV4和ipV6各类ip地址查询。",
               "url": "https://www.ip138.com/",
               "icon": "/uploads/favicon-bbf1973e0ba2.ico",
               "tags": [],
@@ -1904,7 +1905,7 @@
               "title": "vivo办公套件",
               "description": "vivo 办公套件是集合 OriginOS  生产力应用的多端协作办公工具，支持 Windows、Mac 和网页版，轻松实现手机、平板与电脑间跨屏互动、键鼠协同、远程控制与文件传输管理，同时将原子笔记、日历、相册等多个应用聚合其中，为你提供更高效便捷的办公体验。",
               "url": "https://pc.vivo.com/",
-              "icon": "/uploads/favicon-c489ee866caf.png",
+              "icon": "/uploads/favicon-219bda8e7d4c.png",
               "tags": [],
               "previewImage": "/uploads/preview-pc-vivo-com-5824488a0e7f.webp"
             },
@@ -1972,11 +1973,12 @@
             },
             {
               "id": "site_1769932174858_k241p8ir2",
-              "title": "jetbra破解站",
+              "title": "Some keys for testing",
               "description": "访问 3.jetbra.in",
               "url": "https://3.jetbra.in/",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=3.jetbra.in",
-              "tags": []
+              "tags": [],
+              "previewImage": "/uploads/preview-3-jetbra-in-85007b4044b1.webp"
             }
           ]
         },
@@ -1991,7 +1993,7 @@
               "title": "huahan.cc画函站",
               "description": "huahan.cc泛微OA工程师导航 - 打造专业的OA系统技术支持与资源分享平台, 为泛微OA系统工程师和使用者提供技术支持、插件下载与知识分享站点导航, 助力你快速找到所需的信息。",
               "url": "https://huahan.cc/",
-              "icon": "/uploads/favicon-4eed931aad15.png",
+              "icon": "/uploads/favicon-3ef5311efb84.png",
               "tags": [],
               "previewImage": "/uploads/preview-huahan-cc-4edd7445fb2d.webp"
             },
@@ -2052,7 +2054,7 @@
               "title": "自媒体维基",
               "description": "一个为设计、产品、新媒体、开发、人工智能AI、旅游服务、教师等行业定制的导航网站，不求最全但求最优质的的导航页面，整站链接全部是人工手工测试添加。",
               "url": "https://www.zmt.wiki/",
-              "icon": "/uploads/favicon-21ebb2420d12.png",
+              "icon": "/uploads/favicon-433f01f43997.png",
               "tags": [],
               "previewImage": "/uploads/preview-www-zmt-wiki-00994f295a5e.webp"
             },
@@ -2113,7 +2115,7 @@
               "title": "AIGC工具导航",
               "description": "AIGC工具导航站（www.aigc.cn）简称：AIGC导航，一个全网分类最全、收录最全的生成式AI工具导航，分类包括AI写作、AI绘画、AI视频、AI办公、AI数字人、AI设计、AI语音、AI音乐、AI论文、AI简历、AI智能体、文本转语音等。AIGC导航提供一站式AI工具导航服务，帮助用户快速找到能够提升工作效率和创作生产力能力的AI工具。找AI工具，就上AIGC工具导航！",
               "url": "https://www.aigc.cn/",
-              "icon": "/uploads/favicon-c96677efc3b1.png",
+              "icon": "/uploads/favicon-8a2e0cc8d0d0.png",
               "tags": [],
               "previewImage": "/uploads/preview-www-aigc-cn-ff5d7c9cb2fe.webp"
             },
@@ -2252,7 +2254,7 @@
               "title": "JeeSite 快速开发平台",
               "description": "JeeSite 是 Spring Boot 目前最好的快速开发平台, Java 开源框架, 使用经典技术组合：SpringBoot、SpringCloud、MyBatis、Shiro、Beetl、Bootstrap、AdminLTE 等、前后分离版采用 Vue3、Vite、Ant Design Vue。深度融合 AI 人工智能 + RAG 技术，支持 Spring AI、大模型、知识库检索、Tool Calling、MCP 协议。包括：用户, 权限, BPM, IAM, Cloud, AI",
               "url": "https://www.jeesite.com/",
-              "icon": "/uploads/favicon-95ca43597c52.png",
+              "icon": "/uploads/favicon-ee2a7c600e12.png",
               "tags": [],
               "previewImage": "/uploads/preview-www-jeesite-com-a88f8e623243.webp"
             },

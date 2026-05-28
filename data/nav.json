@@ -90,7 +90,7 @@
     "linkTarget": "new",
     "cardStyle": "compact"
   },
-  "adsAspectRatio": "4/3",
+  "adsAspectRatio": "16/9",
   "imageUpload": {
     "convertToWebp": false
   }
