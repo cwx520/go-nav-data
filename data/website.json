@@ -1,0 +1,2475 @@
+{
+  "categories": [
+    {
+      "id": "1769822944886",
+      "name": "个人收藏",
+      "icon": "🏠",
+      "description": "",
+      "children": [
+        {
+          "id": "group_1779982888630_epca8f3vf",
+          "name": "常用",
+          "icon": "📌",
+          "description": "",
+          "sites": [
+            {
+              "id": "site_1769823385550_zm0ukn1xh",
+              "title": "cmo博客",
+              "description": "Description",
+              "url": "https://cwx520.github.io/notes/#/README",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=cwx520.github.io",
+              "tags": [],
+              "previewImage": "/uploads/preview-cwx520-github-io-8e156d3fba7a.webp"
+            },
+            {
+              "id": "site_1770342349431_lnvmz1n5e",
+              "title": "宝塔面板·腾讯云专享版",
+              "description": "访问 159.75.33.167",
+              "url": "http://159.75.33.167:8888/chengyuan",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=159.75.33.167",
+              "tags": [],
+              "previewImage": "/uploads/preview-159-75-33-167-ca03dc93dabc.webp"
+            },
+            {
+              "id": "site_1769821789237_vrcfrvsqp",
+              "title": "cloudflare",
+              "description": "访问 dash.cloudflare.com",
+              "url": "https://dash.cloudflare.com/837d63ba4df92f38e7e3d54fd9ce70a5/pages/view/navsphere",
+              "icon": "/assets/favicon_1769821778120.png",
+              "tags": []
+            },
+            {
+              "id": "site_1769821731276_mttugwksa",
+              "title": "NavSphere后端",
+              "description": "A modern navigation platform",
+              "url": "https://navsphere-94m.pages.dev/admin",
+              "icon": "https://navsphere-94m.pages.dev/favicon.ico",
+              "tags": []
+            },
+            {
+              "id": "site_1770364061702_c3wd9hany",
+              "title": "登录",
+              "description": "腾讯云为数百万的企业和开发者提供安全、稳定的云服务器、云主机、CDN、对象存储、域名注册、云存储、云数据库等云服务，帮助用户解决游戏、视频、移动、微信、互联网+等行业的架构难题，是全球领先的云计算服务商。",
+              "url": "https://console.cloud.tencent.com/lighthouse/instance/detail?searchParams=rid%3D1&rid=1&id=lhins-dy1977af&tab=firewall",
+              "icon": "/uploads/favicon-5171df10b798.ico",
+              "tags": [],
+              "previewImage": "/uploads/preview-console-cloud-tencen-48a787d73a59.webp"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1769790362495",
+      "name": "热门网站",
+      "icon": "🏠",
+      "description": "热门网站",
+      "children": [
+        {
+          "id": "9cad2d40-06a3-4fec-958e-2e1bea98c0b1",
+          "name": "推荐网站",
+          "icon": "📚",
+          "description": "推荐网站",
+          "sites": [
+            {
+              "id": "item-1769792608490",
+              "title": "有道云笔记",
+              "description": "TODO",
+              "url": "https://note.youdao.com/web/#/file/9FA3BFEE38924A019AEF0419B9170FEC/default/WEBf8988b6be9b054e827d2f895ec2106f1/",
+              "icon": "/uploads/favicon-acd2513c304f.ico",
+              "tags": [],
+              "previewImage": "/uploads/preview-note-youdao-com-c9b3d1b06965.webp"
+            },
+            {
+              "id": "site_1769821538329_t5chdx6jp",
+              "title": "DeepSeek",
+              "description": "Chat with DeepSeek AI – your intelligent assistant for coding, content creation, file reading, and more. Upload documents, engage in long-context conversations, and get expert help in AI, natural language processing, and beyond. | 深度求索（DeepSeek）助力编程代码开发、创意写作、文件处理等任务，支持文件上传及长文本对话，随时为您提供高效的AI支持。",
+              "url": "https://chat.deepseek.com/",
+              "icon": "/uploads/favicon-90d7e400ca26.svg",
+              "tags": [],
+              "previewImage": "/uploads/preview-chat-deepseek-com-32e7b2af4738.webp"
+            },
+            {
+              "id": "site_1769821577922_3lk9ewq6y",
+              "title": "chatos",
+              "description": "访问 iai.aichatos8.com.cn",
+              "url": "https://iai.aichatos8.com.cn/#/home",
+              "icon": "/uploads/favicon-6743b9b1fa3a.png",
+              "tags": [],
+              "previewImage": "/uploads/preview-iai-aichatos8-com-cn-8f388f254ee9.webp"
+            },
+            {
+              "id": "item-1769792565096",
+              "title": "hao123",
+              "description": "访问 www.hao123.com",
+              "url": "https://www.hao123.com/",
+              "icon": "/uploads/favicon-49bc57d6cdd3.ico",
+              "tags": [],
+              "previewImage": "/uploads/preview-www-hao123-com-2aa0638dff82.webp"
+            },
+            {
+              "id": "site_1769821685858_b0iun76dz",
+              "title": "cmoblog",
+              "description": "cmoblog擅长报错-后端,算法/数据结构,报错-工具,等方面的知识,cmoblog关注java,bug,后端领域.",
+              "url": "https://blog.csdn.net/weixin_45035342?spm=1000.2115.3001.5343",
+              "icon": "/uploads/favicon-b06d7d65a252.ico",
+              "tags": [],
+              "previewImage": "/uploads/preview-blog-csdn-net-f2baa042d6ed.webp"
+            },
+            {
+              "id": "site_1769840430561_8rir0y8ll",
+              "title": "哔哩哔哩",
+              "description": "哔哩哔哩（bilibili.com)是国内知名的视频弹幕网站，这里有及时的动漫新番，活跃的ACG氛围，有创意的Up主。大家可以在这里找到许多欢乐。",
+              "url": "https://www.bilibili.com/",
+              "icon": "/uploads/favicon-2681561eb24e.ico",
+              "tags": [],
+              "previewImage": "/uploads/preview-www-bilibili-com-80f1ee28c72c.webp"
+            },
+            {
+              "id": "item-1769870256614",
+              "title": "小红书",
+              "description": "",
+              "url": "https://www.xiaohongshu.com/explore?m_source=pinpai",
+              "icon": "/uploads/favicon-a2dc2a235f74.ico",
+              "tags": [],
+              "previewImage": "/uploads/preview-www-xiaohongshu-com-35351255bff8.webp"
+            },
+            {
+              "id": "item-1769870275031",
+              "title": "牛客网",
+              "description": "求职之前，先上牛客，就业找工作一站解决。互联网IT技术/产品/运营/硬件/汽车机械制造/金融/财务管理/审计/银行/市场营销/地产/快消/管培生等等专业技能学习/备考/求职神器，在线进行企业校招实习笔试面试真题模拟考试练习，全面提升求职竞争力，找到好工作，拿到好offer。_牛客网_牛客在手,offer不愁",
+              "url": "https://www.nowcoder.com/",
+              "icon": "/uploads/favicon-d14f15e97547.ico",
+              "tags": [],
+              "previewImage": "/uploads/preview-www-nowcoder-com-00994f295a5e.webp"
+            },
+            {
+              "id": "site_1769931929739_vdiz8ybs3",
+              "title": "小红书创作服务平台",
+              "description": "小红书创作服务平台为小红书创作者和机构提供视频上传、数据分析、粉丝管理、创作指导等多项运营服务，助力用户解锁更多创作者专属功能，体验高效创作！",
+              "url": "https://creator.xiaohongshu.com/new/home?source=official",
+              "icon": "/uploads/favicon-33b25a8e2b0a.ico",
+              "tags": [],
+              "previewImage": "/uploads/preview-creator-xiaohongshu-4e57079a1ebc.webp"
+            },
+            {
+              "id": "site_1769960469305_farqgvby5",
+              "title": "语雀",
+              "description": "优雅高效的在线文档编辑与协同工具，让每个企业轻松拥有文档中心，阿里巴巴集团内部使用多年，众多中小企业首选。主流 Office 文件全兼容，多人协同，轻松拥有团队知识库。企业文档中心化管理，各类文档井然有序，独立域名，随时随地安全获取。语雀致力于帮助每一个个体与企业，都拥有珍贵的知识财富。写文档，就用语雀！",
+              "url": "https://www.yuque.com/",
+              "icon": "/uploads/favicon-8dabf6ef0831.png",
+              "tags": [],
+              "previewImage": "/uploads/preview-www-yuque-com-00994f295a5e.webp"
+            }
+          ]
+        },
+        {
+          "id": "55056b99-bbdc-4f22-9717-4380d38deab3",
+          "name": "常用网站",
+          "icon": "🧠",
+          "description": "常用网站",
+          "sites": [
+            {
+              "id": "item-1769792590628",
+              "title": "Gitee",
+              "description": "面向企业提供一站式研发管理解决方案，包括代码管理、项目管理、文档协作、测试管理、CICD、效能度量等多个模块，支持SaaS、私有化等多种部署方式，帮助企业有序规划和管理研发过程，提升研发效率和质量。",
+              "url": "https://gitee.com/",
+              "icon": "/uploads/favicon-2d1a42d09447.ico",
+              "tags": [],
+              "previewImage": "/uploads/preview-gitee-com-c33733ac9d49.webp"
+            },
+            {
+              "id": "site_1769821647579_rmna9xtlt",
+              "title": "时光序",
+              "description": "时光序，是一款轻便的个人日程管理应用，你可以用它管理日程，设定纪念日和关心家人提醒，随时捕捉生活中的灵感、总结自己。是你工作和生活，学习的智能助手。",
+              "url": "https://web.shiguangxu.com/",
+              "icon": "/uploads/favicon-326e6892d02c.ico",
+              "tags": [],
+              "previewImage": "/uploads/preview-web-shiguangxu-com-87acf3adff0e.webp"
+            },
+            {
+              "id": "site_1769840470233_yqedbtisr",
+              "title": "百度翻译",
+              "description": "百度翻译打造的新一代AI大模型翻译平台，为用户提供翻译和阅读外文场景的一站式智能解决方案，支持中文、英文、日语、韩语、德语、法语等203种语言，包括文档翻译、AI翻译、英文润色、双语审校、语法分析等多种能力，是智能时代的翻译新质生产力。",
+              "url": "https://fanyi.baidu.com/mtpe-individual/transText?ext_channel=pcPinzhuan#/",
+              "icon": "/uploads/favicon-53b41a891c20.ico",
+              "tags": [],
+              "previewImage": "/uploads/preview-fanyi-baidu-com-05b0240f6ff3.webp"
+            },
+            {
+              "id": "site_1769870091286_l0qug11zl",
+              "title": "GitHub · Change is constant. GitHub keeps you ahead. · GitHub",
+              "description": "Join the world&#39;s most widely adopted, AI-powered developer platform where millions of developers, businesses, and the largest open source community build software that advances humanity.",
+              "url": "https://github.com/",
+              "icon": "/uploads/favicon-6a9577cd4f7f.svg",
+              "tags": [],
+              "previewImage": "/uploads/preview-github-com-e3952de8bc5a.webp"
+            },
+            {
+              "id": "item-1769870129910",
+              "title": "AtomGit",
+              "description": "AtomGit | GitCode是面向全球开发者的开源社区,包括原创博客,开源代码托管,代码协作,项目管理等。与开发者社区互动,提升您的研发效率和质量。",
+              "url": "https://gitcode.com/?tn=67bc3fa197a0293d6bfebd05?utm_source=devpress_gitcode",
+              "icon": "/uploads/favicon-e7082a606e3d.png",
+              "tags": [],
+              "previewImage": "/uploads/preview-gitcode-com-fa288a9d473b.webp"
+            },
+            {
+              "id": "item-1769870169480",
+              "title": "飞书",
+              "description": "",
+              "url": "https://accounts.feishu.cn/accounts/page/login?app_id=2&no_trap=1&query_scope=all&redirect_uri=https%3A%2F%2Fr0whfkbgrfy.feishu.cn%2Fdrive%2Fhome%2F%3Flogin_redirect_times%3D1",
+              "icon": "/uploads/favicon-f93aee8eba30.png",
+              "tags": [],
+              "previewImage": "/uploads/preview-accounts-feishu-cn-e0fe82e98596.webp"
+            },
+            {
+              "id": "item-1769870184241",
+              "title": "登录 · 语雀",
+              "description": "十万阿里人都在用的笔记与文档知识库，面向企业、组织或个人，提供全新的体系化知识管理，打造轻松流畅的工作协同。金融级数据安全、丰富的应用场景、强大的知识创作与管理，助力企业、个人轻松拥有云端知识库",
+              "url": "https://www.yuque.com/login?goto=https%3A%2F%2Fwww.yuque.com%2Fdashboard%2Fbooks",
+              "icon": "/uploads/favicon-8dabf6ef0831.png",
+              "tags": [],
+              "previewImage": "/uploads/preview-www-yuque-com-842b9e424db1.webp"
+            },
+            {
+              "id": "item-1769870212552",
+              "title": "石墨文档",
+              "description": "",
+              "url": "https://shimo.im/loginByPassword?redirect_url=https%3A%2F%2Fshimo.im%2Frecent",
+              "icon": "/uploads/favicon-89dc2a129175.ico",
+              "tags": [],
+              "previewImage": "/uploads/preview-shimo-im-27d89b6dc01d.webp"
+            },
+            {
+              "id": "item-1769870237839",
+              "title": "稀土掘金",
+              "description": "掘金是面向全球中文开发者的技术内容分享与交流平台。我们通过技术文章、沸点、课程、直播等产品和服务，打造一个激发开发者创作灵感，激励开发者沉淀分享，陪伴开发者成长的综合类技术社区。",
+              "url": "https://juejin.cn/",
+              "icon": "/uploads/favicon-3a188de6d6c4.png",
+              "tags": [],
+              "previewImage": "/uploads/preview-juejin-cn-40f551307024.webp"
+            },
+            {
+              "id": "item-1769870296248",
+              "title": "力扣",
+              "description": "备战技术面试？力扣提供海量技术面试资源，帮助你高效提升编程技能，轻松拿下世界 IT 名企 Dream Offer。",
+              "url": "https://leetcode.cn/problemset/",
+              "icon": "/uploads/favicon-864d3cfb2ed7.ico",
+              "tags": [],
+              "previewImage": "/uploads/preview-leetcode-cn-3694239b3678.webp"
+            },
+            {
+              "id": "site_1769931782596_1ske5iuo8",
+              "title": "随手记",
+              "description": "随手记是一个移动互联理财平台。它主要为您提供：个人理财产品——随手记相关的iphone，android客户端以及记账网站。让您随时随地记账，查账。同时可以帮您分析开销的走向和比例，通过预算功能还可以有效的减少乱花钱的习惯！",
+              "url": "https://www.sui.com/",
+              "icon": "/uploads/favicon-1860229de39d.ico",
+              "tags": [],
+              "previewImage": "/uploads/preview-www-sui-com-4f24a204d821.webp"
+            },
+            {
+              "id": "site_1769932029187_lp74djcma",
+              "title": "闲鱼",
+              "description": "闲鱼，中国领先的闲置二手交易平台，趣味生活社区，从最初的C2C交易，到用户在这里分享技能、兴趣与经验，从物品到服务、从交易到交流，如今闲鱼累计用户数超5亿，日均交易额已突破10亿，每天都有400万件闲置物品在平台上发布。同时，闲鱼以闲置交易为起点，还发展出一键转卖、极速回收、验货宝、闲鱼小法庭等服务；并在2024年闲鱼成立十周年之际推出了闲鱼简历功能，通过闲置时间、技能来赚钱，让你的人生另起一行。",
+              "url": "https://www.goofish.com/",
+              "icon": "/uploads/favicon-4d997ce45128.png",
+              "tags": [],
+              "previewImage": "/uploads/preview-www-goofish-com-a772d23fefc5.webp"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1769960652670",
+      "name": "副业网站",
+      "icon": "📊",
+      "description": "副业网站",
+      "children": [
+        {
+          "id": "577dd649-0476-40df-ab05-c0391a99e6cf",
+          "name": "需求开发",
+          "icon": "💻",
+          "description": "接单网站",
+          "sites": [
+            {
+              "id": "site_1769960833224_sqyk96uje",
+              "title": "程序员客栈",
+              "description": "程序员客栈提供兼职程序员、程序员接私活、开发外包，程序员客栈是最大的程序员兼职平台，优质的程序员兼职网站，这里有BAT级兼职程序员、产品经理兼职、UI设计兼职，通过程序员兼职，程序员接私活，程序员接单等方式，解决创业公司程序员兼职、软件开发、产品设计等问题",
+              "url": "https://www.proginn.com/",
+              "icon": "/uploads/favicon-077c01a572dd.ico",
+              "tags": [],
+              "previewImage": "/uploads/preview-www-proginn-com-1445cc0ca4ec.webp"
+            },
+            {
+              "id": "site_1769960859151_heimmica1",
+              "title": "猪八戒网",
+              "description": "找品质企业服务，就上猪八戒网，提供品牌设计、营销策划、网站建设、知识产权、工商财税、数字资产交易等800+种品质服务；18年专业企业服务经验，300+线下服务网络，企业服务放心购，明码实价，不成功退款。",
+              "url": "https://www.zbj.com/",
+              "icon": "/uploads/favicon-5adac7c3eaa6.ico",
+              "tags": [],
+              "previewImage": "/uploads/preview-www-zbj-com-6177a2dbb237.webp"
+            },
+            {
+              "id": "site_1769960908103_a6tt7azj6",
+              "title": "猿急送",
+              "description": "访问 www.yuanjisong.com",
+              "url": "https://www.yuanjisong.com/",
+              "icon": "/assets/favicon_1769960883162.png",
+              "tags": []
+            },
+            {
+              "id": "site_1769960978990_gocx0k4ko",
+              "title": "人人开发",
+              "description": "人人开发基于可视化快速开发平台 - 捷得（Joget）/捷得云（Joget Cloud）（PaaS），集众多开发者资源，为企业提供企业管理软件服务。应用市场提供应用产品、插件的在线试用和销售，服务市场以威客众包模式提供管理软件定制开发服务，各类企业级应用开发服务，例如：协同OA产品，ERP，CRM，人事管理，项目管理，资产管理，设备管理等",
+              "url": "http://rrkf.com/",
+              "icon": "/uploads/favicon-76736d487b98.png",
+              "tags": [],
+              "previewImage": "/uploads/preview-rrkf-com-df894484a478.webp"
+            },
+            {
+              "id": "site_1769961157782_hsacdk4ik",
+              "title": "登录",
+              "description": "",
+              "url": "https://www.taskcity.com/login",
+              "icon": "/uploads/favicon-e9b9211ba34e.ico",
+              "tags": [],
+              "previewImage": "/uploads/preview-www-taskcity-com-00994f295a5e.webp"
+            },
+            {
+              "id": "site_1769961184263_og16p4wna",
+              "title": "实现网",
+              "description": "实现网为企业提供BAT等名企背景的、靠谱的开发设计兼职人才和自由职业者，满足企业项目外包、驻场开发、远程兼职、技术咨询等短期人力需求。已服务2000多家企业，包括好未来、方正、人人贷、秒拍等知名企业。",
+              "url": "https://shixian.com/",
+              "icon": "/uploads/favicon-d7e1bd3ff5ee.ico",
+              "tags": [],
+              "previewImage": "/uploads/preview-shixian-com-9af0cd6690e4.webp"
+            },
+            {
+              "id": "site_1769961214638_fflnabk27",
+              "title": "开发邦",
+              "description": "开发邦，软件定制开发服务，互联网软件外包平台，十年互联网软件定制开发经验，曾服务：华为、商汤、深鉴、中国软件评测中心、华北电力大学、中科院等机构。专业从事软件定制开发，软件外包开发，管理软件开发，互联网系统开发，网站开发，APP开发，微信开发，先后为华为公司、商汤科技、工信部中国软件评测中心、神州数码、深鉴科技、中软集团、中国万网、中石油吐哈气举中心、华北电力大学、中科院科技政策与管理研究所、浪潮集团、ADI、世界五百强伊顿中国等知名企业及机构提供过互联网软件技术开发与技术咨询服务。",
+              "url": "https://www.kaifabang.com/",
+              "icon": "/uploads/favicon-9a74b0dce725.ico",
+              "tags": [],
+              "previewImage": "/uploads/preview-www-kaifabang-com-1f4f85cf31c4.webp"
+            },
+            {
+              "id": "site_1769961254630_ilz2knfm0",
+              "title": "电鸭社区",
+              "description": "电鸭社区是具有8年历史的远程工作招聘社区，也是远程办公互联网工作者们的聚集地。在社区，我们进行有价值的话题讨论，也分享远程、外包、零活、兼职、驻场等非主流工作机会。「只工作，不上班」是我们倡导的工作态度。",
+              "url": "https://eleduck.com/",
+              "icon": "/uploads/favicon-0ad06ae5a9ed.ico",
+              "tags": [],
+              "previewImage": "/uploads/preview-eleduck-com-5aa49e0e2b09.webp"
+            }
+          ]
+        },
+        {
+          "id": "78133c5b-19bd-4ec2-9496-e19cb9191069",
+          "name": "自媒体网",
+          "icon": "🎨",
+          "description": "自媒体网",
+          "sites": []
+        },
+        {
+          "id": "b13f169e-ab8a-4754-b25e-27467ae45f2d",
+          "name": "电商运营",
+          "icon": "📋",
+          "description": "电商运营",
+          "sites": []
+        },
+        {
+          "id": "091d069b-77ef-4170-9da7-6bbcfa855343",
+          "name": "毕业网站",
+          "icon": "📋",
+          "description": "毕业网站",
+          "sites": [
+            {
+              "id": "site_1769930204625_3cy0nsbow",
+              "title": "Checkpass论文查重系统",
+              "description": "",
+              "url": "https://www.dox110.com/cc/checkpass/index.html",
+              "icon": "/assets/favicon_1769930195545.png",
+              "tags": []
+            },
+            {
+              "id": "site_1769930384313_ubfs5a5q2",
+              "title": "书童图书馆",
+              "description": "本站2015年初正式上线，它的宗旨就是要使大家只需花费极少的一点零花钱就能享受到贴心的学术文献查询和下载服务。有缘成为我站会员的朋友可以不再为写论文查文献的事发愁了。本站的服务定位“面向科研人员，提供最强文献下载服务，价格公道实在，坚持以质取胜。”",
+              "url": "https://3.shutong2.com/",
+              "icon": "/uploads/favicon-453f9845892f.ico",
+              "tags": [],
+              "previewImage": "/uploads/preview-3-shutong2-com-c20aaca55ffa.webp"
+            },
+            {
+              "id": "site_1769930410944_u51qj0i3b",
+              "title": "免费论文查重",
+              "description": "",
+              "url": "https://jike777.com/duplicate/card/index/",
+              "icon": "/assets/favicon_1769930400755.ico",
+              "tags": [],
+              "previewImage": "/uploads/preview-jike777-com-870130b2af2b.webp"
+            },
+            {
+              "id": "site_1769930434568_m3me3t6us",
+              "title": "小发猫伪原创",
+              "description": "",
+              "url": "https://www.xiaofamao.com/",
+              "icon": "/uploads/favicon-e2d6239cb9f2.ico",
+              "tags": [],
+              "previewImage": "/uploads/preview-www-xiaofamao-com-acb6258ab0ab.webp"
+            },
+            {
+              "id": "site_1769930497951_vmv1mq5o4",
+              "title": "论文查重率检测系统",
+              "description": "PaperPass专业论文查重系统，系统采用智能解析技术，精准定位重复段落并可视化呈现相似内容，自动生成多版本降重方案，论文查重率的精准定位。",
+              "url": "https://www.paperpass.com/upload",
+              "icon": "/assets/favicon_1769930486935.png",
+              "tags": [],
+              "previewImage": "/uploads/preview-www-paperpass-com-64fccf75136e.webp"
+            },
+            {
+              "id": "site_1769931323005_lpyycha9f",
+              "title": "创客贴",
+              "description": "无需PS，会打字就能用的图片、视频编辑器。8000万图片素材在线编辑，换图改字生成精美设计。自动抠图，高清背景，设计不求人，商用有版权",
+              "url": "https://www.chuangkit.com/",
+              "icon": "/uploads/favicon-b8e6696dc5b7.ico",
+              "tags": [],
+              "previewImage": "/uploads/preview-www-chuangkit-com-72d1df5a143f.webp"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1769917748057",
+      "name": "官方网站",
+      "icon": "⚙️",
+      "description": "官方网站",
+      "children": [
+        {
+          "id": "213b2ae3-e929-400f-8944-4124f8303226",
+          "name": "开发网站",
+          "icon": "📊",
+          "description": "开发网站",
+          "sites": [
+            {
+              "id": "site_1769917806883_uc2yy2ucv",
+              "title": "微信公众平台",
+              "description": "微信公众平台，给个人、企业和组织提供业务服务与用户管理能力的全新服务平台。",
+              "url": "https://mp.weixin.qq.com/",
+              "icon": "/uploads/favicon-a62d7d84bd02.ico",
+              "tags": [],
+              "previewImage": "/uploads/preview-mp-weixin-qq-com-08178cc2c0af.webp"
+            },
+            {
+              "id": "site_1769917963115_52emmwk3l",
+              "title": "登录",
+              "description": "腾讯云为数百万的企业和开发者提供安全、稳定的云服务器、云主机、CDN、对象存储、域名注册、云存储、云数据库等云服务，帮助用户解决游戏、视频、移动、微信、互联网+等行业的架构难题，是全球领先的云计算服务商。",
+              "url": "https://cloud.tencent.com/login?s_url=https%3A%2F%2Fcloud.tencent.com%2F%3FfromSource%3Dgwzcw.7468276.7468276.7468276%26utm_medium%3Dcpc%26utm_id%3Dgwzcw.7468276.7468276.7468276",
+              "icon": "/uploads/favicon-5171df10b798.ico",
+              "tags": [],
+              "previewImage": "/uploads/preview-cloud-tencent-com-07e5975f9440.webp"
+            },
+            {
+              "id": "site_1769918046546_zmzsi04xc",
+              "title": "七牛云",
+              "description": "",
+              "url": "https://sso.qiniu.com/",
+              "icon": "/uploads/favicon-01fb34a0b0ff.ico",
+              "tags": [],
+              "previewImage": "/uploads/preview-sso-qiniu-com-441641422f49.webp"
+            },
+            {
+              "id": "site_1769918068395_0nwp30l6q",
+              "title": "会员登陆",
+              "description": "<block name=",
+              "url": "https://www.ngrok.cc/login.html",
+              "icon": "https://www.ngrok.cc/favicon.ico",
+              "tags": [],
+              "previewImage": "/uploads/preview-www-ngrok-cc-e2cb3783983e.webp"
+            },
+            {
+              "id": "site_1769918094075_yq2b2dn6p",
+              "title": "Maven Repository",
+              "description": "",
+              "url": "https://mvnrepository.com/",
+              "icon": "/assets/favicon_1769918080460.ico",
+              "tags": []
+            },
+            {
+              "id": "site_1769918209921_ypulzy3ho",
+              "title": "贝锐花生壳内网穿透",
+              "description": "贝锐花生壳软件提供内网穿透、端口映射服务，为全球1800多万用户提供DDNS动态域名解析服务,支持外网访问内网服务器,为用户提供免费动态域名申请,软件下载,域名解析,解析教程等服务。",
+              "url": "https://hsk.oray.com/",
+              "icon": "/uploads/favicon-1cb3546c6d61.ico",
+              "tags": [],
+              "previewImage": "/uploads/preview-hsk-oray-com-63fea3e011a9.webp"
+            },
+            {
+              "id": "site_1769918344658_txzrhhznc",
+              "title": "ngrok Log in",
+              "description": "Sign in to ngrok to manage your tunnels, custom domains, endpoints, and API gateways. Authenticate with email, GitHub, Google, or your organization&#x27;s SSO.",
+              "url": "https://dashboard.ngrok.com/login?state=prOzf1iV82oR_we6VL0vnZPR0iutQjOWq0d516myvL316a3YV9EqScOMfsoPti0HPg5t9_JT6CLj-9gICxRDCel0SQEArZfupgXY6TT4E8ZtyxjMsbXHYnA8xCMC5oRjEGjGDXMKT0jhjP-fGcwncGkh5i85wzq4Gr2dTIEmWM7M",
+              "icon": "/assets/favicon_1769918328425.png",
+              "tags": [],
+              "previewImage": "/uploads/preview-dashboard-ngrok-com-d276a39eb04d.webp"
+            },
+            {
+              "id": "site_1769918404888_uk1j0li3l",
+              "title": "阿里云",
+              "description": "阿里云——阿里巴巴集团旗下全球领先的云计算及人工智能科技公司之一。提供全栈云服务，包括弹性计算、高性能数据库、网络与存储方案，以及AI大模型、向量检索、大数据分析等智能化能力。依托飞天云计算操作系统与全球基础设施，支持企业构建高可用架构，定制基于场景的行业解决方案，免费备案，7×24小时售后支持，助企业无忧上云。",
+              "url": "https://www.aliyun.com/",
+              "icon": "/uploads/favicon-a79cc4c0c10a.ico",
+              "tags": [],
+              "previewImage": "/uploads/preview-www-aliyun-com-538ceee4c4bb.webp"
+            },
+            {
+              "id": "site_1769918455106_8ri1z2n6w",
+              "title": "云产品最新优惠活动",
+              "description": "华为云最新优惠促销活动汇聚了云服务器,云数据库,云存储等优势产品,推出打折促销,推荐送等多种福利活动,还有更多精彩的线下大会及技术沙龙等着你来参与-华为云",
+              "url": "https://activity.huaweicloud.com/",
+              "icon": "/uploads/favicon-f8c39aa1c89b.ico",
+              "tags": [],
+              "previewImage": "/uploads/preview-activity-huaweicloud-d216b6ab32fa.webp"
+            },
+            {
+              "id": "site_1769930941854_areteei5d",
+              "title": "Apifox",
+              "description": "",
+              "url": "https://app.apifox.com/user/login",
+              "icon": "/uploads/favicon-fb40ba654035.png",
+              "tags": [],
+              "previewImage": "/uploads/preview-app-apifox-com-5257b86ff09e.webp"
+            }
+          ]
+        },
+        {
+          "id": "1186925d-9a60-4015-9ce0-7ac487ca3a14",
+          "name": "娱乐网站",
+          "icon": "📄",
+          "description": "娱乐网站",
+          "sites": [
+            {
+              "id": "site_1769932194697_kyx4uuh8v",
+              "title": "YouTube",
+              "description": "在 YouTube 上畅享你喜爱的视频和音乐，上传原创内容并与亲朋好友和全世界观众分享你的视频。",
+              "url": "https://www.youtube.com/",
+              "icon": "/assets/favicon_1769932187904.png",
+              "tags": []
+            },
+            {
+              "id": "site_1769932754279_3ldr4fkbk",
+              "title": "淘声网",
+              "description": "淘声网是全球免费声音素材聚合平台,独创toSound“吐司”声音搜索引擎,搭配AudioDown智能下载方案,游戏音效,影视配乐,实地录音,节奏音源,音乐样本,海量音频素材一键获取,免费个人/商业使用许可授权。",
+              "url": "https://www.tosound.com/",
+              "icon": "/uploads/favicon-c62e00c9b187.ico",
+              "tags": [],
+              "previewImage": "/uploads/preview-www-tosound-com-3da44eef05be.webp"
+            },
+            {
+              "id": "site_1769932789728_bwkk0u8dh",
+              "title": "在线免费文字转语音",
+              "description": "TTSMaker（马克配音）是一个免费的AI配音平台，可以将文本转换成语音，支持50多种语言和300多种语音风格，包括各种热门短视频声音，强大的神经网络使语音听起来更加自然，您可以在线试听，或者按mp3、wav格式下载音频文件。",
+              "url": "https://ttsmaker.cn/",
+              "icon": "/uploads/favicon-6400235c7094.ico",
+              "tags": [],
+              "previewImage": "/uploads/preview-ttsmaker-cn-37a29f1e3733.webp"
+            },
+            {
+              "id": "site_1769932815271_a4a5ouca3",
+              "title": "在线文字转语音",
+              "description": "免费提供男女语音文本的高质量在线语音代理。可以免费将文本转换并下载到mp3音频文件中，而无需注册。",
+              "url": "https://audiotoolset.com/cn/text-to-speech?eqid=bae94996001ce6bb00000004647c0c56",
+              "icon": "/uploads/favicon-c8f4872d5411.ico",
+              "tags": [],
+              "previewImage": "/uploads/preview-audiotoolset-com-cee54b979878.webp"
+            }
+          ]
+        },
+        {
+          "id": "366cace6-a0a1-4f92-b995-edc1c6c334fe",
+          "name": "工具网站",
+          "icon": "📚",
+          "description": "工具网站",
+          "sites": [
+            {
+              "id": "item-1769917850741",
+              "title": "登录",
+              "description": "ProcessOn是一个在线协作绘图平台，为用户提供强大、易用的作图工具！支持在线创作流程图、思维导图、组织结构图、网络拓扑图、BPMN、UML图、UI界面原型设计、iOS界面原型设计等。同时依托于互联网实现了人与人之间的实时协作和共享。",
+              "url": "https://www.processon.com/login",
+              "icon": "/uploads/favicon-374e54bfddfe.ico",
+              "tags": [],
+              "previewImage": "/uploads/preview-www-processon-com-45a9ed7f534e.webp"
+            },
+            {
+              "id": "site_1769917894459_slyte9lqh",
+              "title": "图标库v5",
+              "description": "Fontawesome中文版webfont,是一款基于css框架的网页字体图标库，它完全免费",
+              "url": "https://fontawesome.com.cn/v5",
+              "icon": "/uploads/favicon-d92dad696907.ico",
+              "tags": [],
+              "previewImage": "/uploads/preview-fontawesome-com-cn-f96ed2cad2c2.webp"
+            },
+            {
+              "id": "site_1769917924778_d6r57n2vo",
+              "title": "boardmix",
+              "description": "",
+              "url": "https://boardmix.cn/app/home",
+              "icon": "/uploads/favicon-9e43c687406a.ico",
+              "tags": [],
+              "previewImage": "/uploads/preview-boardmix-cn-57d7abe85c3b.webp"
+            },
+            {
+              "id": "site_1769917941474_frg6u5gwc",
+              "title": "阿里云盘",
+              "description": "访问 www.aliyundrive.com",
+              "url": "https://www.aliyundrive.com/drive/legacy",
+              "icon": "/uploads/favicon-4dc55cef5a4f.ico",
+              "tags": [],
+              "previewImage": "/uploads/preview-www-aliyundrive-com-00994f295a5e.webp"
+            },
+            {
+              "id": "site_1769918232625_hgzlxan43",
+              "title": "百度网盘",
+              "description": "",
+              "url": "https://pan.baidu.com",
+              "icon": "/assets/favicon_1769918223839.png",
+              "tags": [],
+              "previewImage": "/uploads/preview-pan-baidu-com-d720586f97a6.webp"
+            },
+            {
+              "id": "site_1769930247184_g1xaze7ou",
+              "title": "Gmail",
+              "description": "了解 Gmail 作为全球规模最大的电子邮件服务，如何为您的帐号和邮件加密，确保您的数据私密、安全且完全由您掌控。",
+              "url": "https://www.google.com/intl/zh-CN/gmail/about/",
+              "icon": "/assets/favicon_1769930233042.png",
+              "tags": []
+            },
+            {
+              "id": "site_1769930322137_epp3omit2",
+              "title": "Outlook",
+              "description": "",
+              "url": "https://outlook.live.com/mail/0/",
+              "icon": "/assets/favicon_1769930314262.png",
+              "tags": [],
+              "previewImage": "/uploads/preview-outlook-live-com-b9874608e82d.webp"
+            },
+            {
+              "id": "site_1769930468559_vz1c8gqnv",
+              "title": "DeepL翻译器",
+              "description": "即时翻译文本&amp;完整的文档文件。为个人和团队提供准确的翻译。每天有数百万人使用DeepL进行翻译。",
+              "url": "https://www.deepl.com/zh/translator",
+              "icon": "/uploads/favicon-d499b7c67074.png",
+              "tags": [],
+              "previewImage": "/uploads/preview-www-deepl-com-b567417ade93.webp"
+            },
+            {
+              "id": "site_1769931266965_fgyoc0gdd",
+              "title": "Canva",
+              "description": "访问 www.canva.cn",
+              "url": "https://www.canva.cn/templates/",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.canva.cn",
+              "tags": []
+            },
+            {
+              "id": "site_1769931402691_lak5zabqn",
+              "title": "在线搞定设计",
+              "description": "0基础轻松搞定设计，稿定设计提供丰富的海报、图片、PPT、H5设计模板，一站式全场景正版商用素材供应，满足个人及团队的设计制作需求。",
+              "url": "https://www.gaoding.com/introduction",
+              "icon": "/uploads/favicon-2ded4dc5c28a.ico",
+              "tags": [],
+              "previewImage": "/uploads/preview-www-gaoding-com-b083b01bd52a.webp"
+            },
+            {
+              "id": "site_1769931476644_fac2pexdb",
+              "title": "飞鸽内网穿透官网",
+              "description": "飞鸽是一款免费、跨平台的、轻量级的内网穿透服务，客户端仅3.5M大小，且无需安装，解压即用。支持http(s)域名代理、tcp、udp端口转发功能。可用于远程连接、远程办公开发、游戏联机等等",
+              "url": "https://www.fgnwct.com/index.html",
+              "icon": "/uploads/favicon-c758f7919348.ico",
+              "tags": [],
+              "previewImage": "/uploads/preview-www-fgnwct-com-9ed76ac3427f.webp"
+            },
+            {
+              "id": "site_1769931892523_jfsihtfn3",
+              "title": "2026最新V2rayU使用教程配置从入门到精通",
+              "description": "2026最新V2rayU使用教程，V2rayU配置教程，最新V2rayU下载，服务器链接教程，V2rayU客户端使用技巧及配置技巧，V2rayU从入门到精通。",
+              "url": "https://v2rayu.org/",
+              "icon": "/uploads/favicon-b7c78c5a9be0.png",
+              "tags": [],
+              "previewImage": "/uploads/preview-v2rayu-org-890391042cbe.webp"
+            },
+            {
+              "id": "site_1769932002427_tq1wyhusr",
+              "title": "VIVO查找手机",
+              "description": "vivo,VIVO,vivo账号,账号,登录vivo账号立享查找手机、同步数据等vivo会员特权",
+              "url": "https://passport.vivo.com.cn/#/login?client_id=218&redirect_uri=https://find.vivo.com.cn/findphone/bound",
+              "icon": "/uploads/favicon-165a914ce636.ico",
+              "tags": [],
+              "previewImage": "/uploads/preview-passport-vivo-com-cn-d08649c85fbc.webp"
+            },
+            {
+              "id": "site_1769960560320_7uwkg8rij",
+              "title": "Sealos",
+              "description": "Sealos云操作系统,以Kubernetes云内核为基础,提供多Region统一管理,应用为中心的企业级容器云,秒级创建高可用数据库,自动伸缩杜绝资源浪费,一键创建容器集群,端到端的应用安全保障。已有超10万+企业,近百万开发者在线使用。",
+              "url": "https://sealos.run/?s=%E9%A6%96%E9%A1%B5",
+              "icon": "/uploads/favicon-d327cac15905.ico",
+              "tags": [],
+              "previewImage": "/uploads/preview-sealos-run-4eb8bd9c2132.webp"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1769696285699",
+      "name": "博客网站",
+      "icon": "📊",
+      "description": "",
+      "children": [
+        {
+          "id": "79090f7c-76a3-44a7-8df7-8bc177eaa2b9",
+          "name": "个人博客",
+          "icon": "📚",
+          "description": "个人博客",
+          "sites": [
+            {
+              "id": "item-1769827592112",
+              "title": "一个专注于技术分享的社区平台",
+              "description": "",
+              "url": "https://www.moguit.cn/",
+              "icon": "/uploads/favicon-5c8104068f14.ico",
+              "tags": [],
+              "previewImage": "/uploads/preview-www-moguit-cn-083eb364803f.webp"
+            },
+            {
+              "id": "item-1769827618255",
+              "title": "最新发布",
+              "description": "访问 www.didispace.com",
+              "url": "https://www.didispace.com/",
+              "icon": "/uploads/favicon-05676f2830f1.ico",
+              "tags": [],
+              "previewImage": "/uploads/preview-www-didispace-com-2ddcc61e2290.webp"
+            },
+            {
+              "id": "item-1769827670726",
+              "title": "主页",
+              "description": "Java突击队是一个专注于面试和项目实战的神奇网站，目标是帮你多拿几个好offer。 我是谁？ ，曾浪迹几家大厂，有10年工作经验，对Java、Spring全家桶、微服务、分布式、高并发、缓存、数据库等有深入的研究。 ：掘金年度优秀作者、CSDN专家博主、阿里云专家博主、腾讯云年度最佳作者、华为云云享专家、掘金年度人气作者等。 发表的文章：聊聊接口性能...",
+              "url": "http://www.susan.net.cn/",
+              "icon": "/uploads/favicon-baac8b06d3aa.ico",
+              "tags": [],
+              "previewImage": "/uploads/preview-www-susan-net-cn-332ba321df4e.webp"
+            },
+            {
+              "id": "item-1769827693728",
+              "title": "代码随想录",
+              "description": "代码随想录是一个免费开源的算法学习平台，由程序员Carl耗时5年精心打磨而成，提供科学刷题顺序、全套图文和视频题解、面试八股文大全、项目资源、训练营以及简历制作工具。涵盖从零基础到进阶的学习路径，包括算法、C++、Java、大模型等专项训练，帮助用户高效提升编程技能和面试竞争力，旨在少走弯路，分享给更多需要的人。",
+              "url": "https://programmercarl.com/",
+              "icon": "/uploads/favicon-2cdab24220ab.png",
+              "tags": [],
+              "previewImage": "/uploads/preview-programmercarl-com-542bc0764155.webp"
+            },
+            {
+              "id": "item-1769828989219",
+              "title": "GitHub",
+              "description": "作者苏三浪迹过几家大厂，掘金优秀创作者，阿里云专家博主，腾讯云年度潜力作者，CSDN万粉博主。. Contribute to dvsusan/susanSayJava development by creating an account on GitHub.",
+              "url": "https://github.com/dvsusan/susanSayJava",
+              "icon": "/uploads/favicon-6a9577cd4f7f.svg",
+              "tags": [],
+              "previewImage": "/uploads/preview-github-com-99794dc99966.webp"
+            },
+            {
+              "id": "site_1769838708033_41hipxnrn",
+              "title": "DDKK.COM 弟弟快看",
+              "description": "弟弟快看教程 - 提供程序员技术教程和资料，帮助你提升技能，快速找到所需资源，轻松学习编程和开发技巧",
+              "url": "https://www.ddkk.com/",
+              "icon": "/uploads/favicon-6f3b2b6bf8bd.ico",
+              "tags": [],
+              "previewImage": "/uploads/preview-www-ddkk-com-6dd3cfdaefad.webp"
+            },
+            {
+              "id": "site_1769838906011_1pyqnny2i",
+              "title": "陌溪的学习笔记",
+              "description": "陌溪的学习笔记，面试突击宝典",
+              "url": "https://note.moguit.cn/#/README",
+              "icon": "/uploads/favicon-f446b11b9a83.ico",
+              "tags": [],
+              "previewImage": "/uploads/preview-note-moguit-cn-ae7b1bdf7f38.webp"
+            },
+            {
+              "id": "site_1769838976118_c51yy6ke8",
+              "title": "学习笔记",
+              "description": "MrJoker的学习笔记",
+              "url": "https://mrjokersince1997.github.io/My-Notes/#/?id=java-se",
+              "icon": "/uploads/favicon-07b3ba94f12f.ico",
+              "tags": [],
+              "previewImage": "/uploads/preview-mrjokersince1997-git-b4ba298ab44b.webp"
+            },
+            {
+              "id": "site_1769839177547_dz2hhb9vj",
+              "title": "君哥的学习笔记",
+              "description": "「知码学院」专属于自学者的在线学习平台,这里有编程领域最完善最「体系化的」Java学习视频、如果你是小白快加入我们一起学最全最「体系化的」java知识吧，官方交流QQ群：827553720",
+              "url": "https://www.it235.com/",
+              "icon": "/uploads/favicon-0862f2c0387c.ico",
+              "tags": [],
+              "previewImage": "/uploads/preview-www-it235-com-d190a1a16e95.webp"
+            },
+            {
+              "id": "site_1769839259831_5nh2eabsq",
+              "title": "实战专栏",
+              "description": "犬小哈教程网站提供的实战项目教程，手把手教您学习企业级项目开发技巧。",
+              "url": "https://www.quanxiaoha.com/column/",
+              "icon": "/uploads/favicon-a9d9c313ed95.ico",
+              "tags": [],
+              "previewImage": "/uploads/preview-www-quanxiaoha-com-b5bcd124e167.webp"
+            },
+            {
+              "id": "site_1769839283975_u04jaihlj",
+              "title": "Javaᶜⁿ 面试突击",
+              "description": "访问 www.javacn.site",
+              "url": "https://www.javacn.site/interview/basic/",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.javacn.site",
+              "tags": []
+            },
+            {
+              "id": "site_1769839374260_9aszjz0gh",
+              "title": "开发攀登网",
+              "description": "本网站是一个Java学习的网站，提供Java的项目、Python项目、小程序项目，面试真题，帮助小伙伴求职，同时提供毕业设计教程源码和项目源码，承接各种项目定制，帮助更多的小伙伴进行学习。",
+              "url": "https://www.javaclimb.com/",
+              "icon": "/uploads/favicon-a3cdb0bdd7c0.png",
+              "tags": [],
+              "previewImage": "/uploads/preview-www-javaclimb-com-4da6828e3eb5.webp"
+            },
+            {
+              "id": "item-1769869889792",
+              "title": "Weblog 前后端分离博客",
+              "description": "访问 116.62.199.48",
+              "url": "http://116.62.199.48/#/",
+              "icon": "/uploads/favicon-db74ab0b7833.ico",
+              "tags": [],
+              "previewImage": "/uploads/preview-116-62-199-48-256bccd68b7e.webp"
+            },
+            {
+              "id": "item-1769869920848",
+              "title": "小傅哥 bugstack 虫洞栈",
+              "description": "包含: Java 基础，面经手册，Netty4.x，手写MyBatis，用Java实现JVM，重学Java设计模式，SpringBoot中间件开发，IDEA插件开发，大营销抽奖系统，Java 实战项目训练，字节码编程...",
+              "url": "https://bugstack.cn/",
+              "icon": "/uploads/favicon-0100c43ae02a.ico",
+              "tags": [],
+              "previewImage": "/uploads/preview-bugstack-cn-ed831d64a6b1.webp"
+            },
+            {
+              "id": "item-1769870002263",
+              "title": "Notion",
+              "description": "A collaborative AI workspace, built on your company context. Build and orchestrate agents right alongside your team",
+              "url": "https://xiaofuge.notion.site/0fe5ce4333ee477da774a884cb44dc7a",
+              "icon": "/uploads/favicon-541fc85f92e3.ico",
+              "tags": [],
+              "previewImage": "/uploads/preview-xiaofuge-notion-site-28b7b655b75a.webp"
+            },
+            {
+              "id": "item-1769870041344",
+              "title": "博客园",
+              "description": "博客园是一个面向开发者的知识分享社区。自创建以来，博客园一直致力并专注于为开发者打造一个纯净的技术交流社区，推动并帮助开发者通过互联网分享知识，从而让更多开发者从中受益。博客园的使命是帮助开发者用代码改变世界。",
+              "url": "https://www.cnblogs.com/",
+              "icon": "/uploads/favicon-0fbdf7e66058.ico",
+              "tags": [],
+              "previewImage": "/uploads/preview-www-cnblogs-com-1954cf4eb013.webp"
+            },
+            {
+              "id": "site_1769931853370_q6czbkg3i",
+              "title": "小新's Blog",
+              "description": "小新's Blog - 要向一颗微不足道的小星学习，可以微弱，但要有光",
+              "url": "https://liuwqtech.github.io/",
+              "icon": "https://qn.liuwqtech.top/008i3skNgy1gpw51zrippj305k05k74p.jpg",
+              "tags": [],
+              "previewImage": "/uploads/preview-liuwqtech-github-io-df664ea8ea33.webp"
+            }
+          ]
+        },
+        {
+          "id": "80802ffc-e95b-4f55-a5e1-caafce680f04",
+          "name": "面试题网站",
+          "icon": "📖",
+          "description": "面试题网站",
+          "sites": [
+            {
+              "id": "item-1769827321494",
+              "title": "Java 面试指南",
+              "description": "JavaGuide 首页聚合 Java 后端学习路线、核心知识体系和高频面试题入口，覆盖 Java 基础、并发、JVM、数据库、Redis、分布式、系统设计、高性能、高可用、计算机基础和 AI 应用开发，帮助读者快速定位重点内容。",
+              "url": "https://javaguide.cn/home.html",
+              "icon": "/uploads/favicon-822e42af1488.ico",
+              "tags": [],
+              "previewImage": "/uploads/preview-javaguide-cn-05e1ec21cec0.webp"
+            },
+            {
+              "id": "site_1769839056209_7ojwd1i2z",
+              "title": "【Java工程师面试宝典】学习说明",
+              "description": "Java工程师校招求职面试宝典，覆盖了众多互联网IT名企面试真题，面经汇总合集，包含了Java工程师校招面试所有考点，JavaSE基础，JavaEE进阶，操作系统，计算机网络，数据库，算法与数据结构，项目相关，设计模式，Java web，JDBC，XML，UML，场景题，覆盖腾讯/阿里/百度/字节跳动/网易/京东/美团/滴滴/华为/小米/google/字节跳动/携程/360/搜狗/新浪/微软/去哪儿等公司。_牛客网_牛客在手,offer不愁",
+              "url": "https://www.nowcoder.com/issue/tutorial?tutorialId=94&uuid=ea1986fcff294f6292385703e94689e8",
+              "icon": "/uploads/favicon-d14f15e97547.ico",
+              "tags": [],
+              "previewImage": "/uploads/preview-www-nowcoder-com-4b11cbd85109.webp"
+            },
+            {
+              "id": "site_1769839394405_4xjdc4d1g",
+              "title": "面试鸭",
+              "description": "面试鸭是国内领先的程序员面试刷题平台，汇集10000+道2026最新Java、前端、C++、Python、Go、数据库、算法、计算机网络面试真题及详细题解。覆盖阿里、腾讯、字节、美团等大厂高频八股文。助力校招、社招、实习求职者快速通关技术面试，高效提升编程能力，轻松拿offer！",
+              "url": "https://www.mianshiya.com/",
+              "icon": "/assets/favicon_1769839385934.png",
+              "tags": [],
+              "previewImage": "/uploads/preview-www-mianshiya-com-8253f0c6744b.webp"
+            }
+          ]
+        },
+        {
+          "id": "41437b48-642e-419c-a339-90db8082db20",
+          "name": "论坛网站",
+          "icon": "🔗",
+          "description": "论坛网站",
+          "sites": [
+            {
+              "id": "site_1769838500723_7hoftojwd",
+              "title": "SpringForAll社区",
+              "description": "访问 spring4all.com",
+              "url": "https://spring4all.com/",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=spring4all.com",
+              "tags": [],
+              "previewImage": "/uploads/preview-spring4all-com-901a847d800d.webp"
+            },
+            {
+              "id": "site_1769839311009_gtv9dfmrq",
+              "title": "OSCHINA",
+              "description": "访问 www.oschina.net",
+              "url": "https://www.oschina.net/",
+              "icon": "/uploads/favicon-0a74948cd705.ico",
+              "tags": [],
+              "previewImage": "/uploads/preview-www-oschina-net-1a716eab93aa.webp"
+            }
+          ]
+        },
+        {
+          "id": "b98ee5a0-48f1-46e8-92b2-37dd54535113",
+          "name": "技术手册",
+          "icon": "📄",
+          "description": "技术手册",
+          "sites": [
+            {
+              "id": "item-1769827469534",
+              "title": "芋道源码",
+              "description": "愿半生编码，如一生老友！读源码是很小众的需求，希望在你需要的时候，不会孤单！",
+              "url": "https://www.iocoder.cn/",
+              "icon": "/uploads/favicon-2acbaef24a52.ico",
+              "tags": [],
+              "previewImage": "/uploads/preview-www-iocoder-cn-dec25f7b6281.webp"
+            },
+            {
+              "id": "site_1769838765886_tdaxidguz",
+              "title": "Java充电社【公众号：Java充电社】",
+              "description": "Java充电社(www.itsoku.com)提供了大量Java学习教程，让大家更好更轻松的学习各种Java技术。",
+              "url": "http://itsoku.com/",
+              "icon": "/uploads/favicon-b100eb022d2c.ico",
+              "tags": [],
+              "previewImage": "/uploads/preview-itsoku-com-eedb9c4cd606.webp"
+            },
+            {
+              "id": "site_1769838931035_x2b4jogrd",
+              "title": "Java/Web/Android/数据库/大数据学习教程与实例",
+              "description": "时代Java致力于打造以Java，Web，Android，数据库，大数据为主及周边技术的交流分享学习社区、系列完整教程和实例。营造原创教程分享学习技术生态圈，专注于提高开发者的技术影响力，让开发者与时代同行。",
+              "url": "https://nowjava.com/",
+              "icon": "/uploads/favicon-43fc1d872279.ico",
+              "tags": [],
+              "previewImage": "/uploads/preview-nowjava-com-ae1941c586d1.webp"
+            },
+            {
+              "id": "site_1769839002702_764ne8ix0",
+              "title": "Java 全栈知识点问题汇总",
+              "description": "包含: Java 基础, Java 部分源码, JVM, Spring, Spring Boot, Spring Cloud, 数据库原理, MySQL, ElasticSearch, MongoDB, Docker, k8s, CI&CD, Linux, DevOps, 分布式, 中间件, 开发工具, Git, IDE, 源码阅读，读书笔记, 开源项目...",
+              "url": "https://www.pdai.tech/md/interview/x-interview.html",
+              "icon": "/uploads/favicon-4d517a0cc6ab.ico",
+              "tags": [],
+              "previewImage": "/uploads/preview-www-pdai-tech-3453e8e23d87.webp"
+            },
+            {
+              "id": "site_1769839137149_5lhbrl3tg",
+              "title": "PassJava博客",
+              "description": "「Java学习 + 架构指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试、架构剖析，首选 PassJava",
+              "url": "http://www.passjava.cn/home.html",
+              "icon": "/uploads/favicon-f2cdd75dcf14.ico",
+              "tags": [],
+              "previewImage": "/uploads/preview-www-passjava-cn-d15ae17d8720.webp"
+            },
+            {
+              "id": "site_1769839203885_dboyqxkog",
+              "title": "Hello-algo",
+              "description": "Hello 算法",
+              "url": "https://www.hello-algo.com/chapter_hello_algo/",
+              "icon": "/assets/favicon_1769839193656.png",
+              "tags": []
+            },
+            {
+              "id": "site_1769839236373_6eqoqu2zk",
+              "title": "本站简介",
+              "description": "labuladong 的算法网站简介，介绍配套学习工具，帮助读者练成框架化、模板化的思维方式解决算法题",
+              "url": "https://labuladong.online/zh/algo/home/",
+              "icon": "/uploads/favicon-be46712e907f.ico",
+              "tags": [],
+              "previewImage": "/uploads/preview-labuladong-online-d817144e075d.webp"
+            },
+            {
+              "id": "site_1769839444191_im4h5sfqp",
+              "title": "GitHub",
+              "description": "《剑指 Offer》《图解算法数据结构》《Krahets 笔面试精选 88 题》Python, Java, C++ 解题代码 - krahets/LeetCode-Book",
+              "url": "https://github.com/krahets/LeetCode-Book",
+              "icon": "/uploads/favicon-6a9577cd4f7f.svg",
+              "tags": [],
+              "previewImage": "/uploads/preview-github-com-6b7d84483988.webp"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1769961405622",
+      "name": "招聘网站",
+      "icon": "📊",
+      "description": "招聘网站",
+      "children": [
+        {
+          "id": "group_1779982888630_xxhi1sf72",
+          "name": "常用",
+          "icon": "📌",
+          "description": "",
+          "sites": [
+            {
+              "id": "site_1769961444285_q0ectnzr6",
+              "title": "招聘网",
+              "description": "前程无忧人才网面向全国,提供2026准确的招聘网站信息,为企业和求职者提供人才招聘、求职、找工作、培训等在内的全方位的人力资源服务,更多求职找工作信息尽在前程无忧!",
+              "url": "https://www.51job.com/",
+              "icon": "/uploads/favicon-e73bee34b76f.ico",
+              "tags": [],
+              "previewImage": "/uploads/preview-www-51job-com-a2e973caa1ab.webp"
+            },
+            {
+              "id": "site_1769961466429_kqki0otu8",
+              "title": "BOSS直聘",
+              "description": "BOSS直聘是权威领先的招聘网，开启人才网招聘求职新时代，招聘求职找工作，BOSS直聘，直接谈！",
+              "url": "https://www.zhipin.com/?ka=header-home-logo",
+              "icon": "/uploads/favicon-3410ab623a5f.ico",
+              "tags": [],
+              "previewImage": "/uploads/preview-www-zhipin-com-895ba6adecf7.webp"
+            },
+            {
+              "id": "site_1769961512189_idduwaxnu",
+              "title": "鱼泡直聘校园招聘",
+              "description": "鱼泡直聘校园招聘专区 - 面向应届生、在校生提供海量优质岗位，涵盖互联网、金融、制造等全行业。平台注册用户超1.2亿，AI智能匹配技术，白领岗位免费发布，助力大学生高效精准就业！",
+              "url": "https://www.haitou.cc/",
+              "icon": "/uploads/favicon-4a0fd60b58c4.ico",
+              "tags": [],
+              "previewImage": "/uploads/preview-www-haitou-cc-00994f295a5e.webp"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1769791172833",
+      "name": "AI网站",
+      "icon": "⚙️",
+      "description": "AI网站",
+      "children": [
+        {
+          "id": "d3eeb1b1-f495-47a9-af22-674c5346bd35",
+          "name": "对话网站",
+          "icon": "📄",
+          "description": "对话网站",
+          "sites": [
+            {
+              "id": "site_1769839592532_isnfuwqm6",
+              "title": "Kimi AI 官网",
+              "description": "Kimi K2.6 模型发布！全新建站功能可生成极具设计感的网站，支持轻量后端模块；Agent 集群全面升级，Office 文档一键转可复用技能。Claw 群组同步开启内测，探索多 Agent 协作的全新可能。",
+              "url": "https://www.kimi.com/",
+              "icon": "/assets/favicon_1769839581204.png",
+              "tags": [],
+              "previewImage": "/uploads/preview-www-kimi-com-621c6c93390e.webp"
+            },
+            {
+              "id": "site_1769839611564_zldzug406",
+              "title": "DeepSeek",
+              "description": "Chat with DeepSeek AI – your intelligent assistant for coding, content creation, file reading, and more. Upload documents, engage in long-context conversations, and get expert help in AI, natural language processing, and beyond. | 深度求索（DeepSeek）助力编程代码开发、创意写作、文件处理等任务，支持文件上传及长文本对话，随时为您提供高效的AI支持。",
+              "url": "https://chat.deepseek.com/",
+              "icon": "/uploads/favicon-90d7e400ca26.svg",
+              "tags": [],
+              "previewImage": "/uploads/preview-chat-deepseek-com-32e7b2af4738.webp"
+            },
+            {
+              "id": "site_1769839633428_eyti7so3p",
+              "title": "chatos",
+              "description": "访问 iai.aichatos8.com.cn",
+              "url": "https://iai.aichatos8.com.cn/",
+              "icon": "/uploads/favicon-6743b9b1fa3a.png",
+              "tags": [],
+              "previewImage": "/uploads/preview-iai-aichatos8-com-cn-8f388f254ee9.webp"
+            },
+            {
+              "id": "site_1769839663934_2axnr7k5t",
+              "title": "AIchatOS2",
+              "description": "",
+              "url": "https://cht18.aichatosclx.com/#/chat/1769839653559",
+              "icon": "/uploads/favicon-8cfbca954d24.svg",
+              "tags": [],
+              "previewImage": "/uploads/preview-cht18-aichatosclx-co-f7d7bd257587.webp"
+            },
+            {
+              "id": "site_1769839701078_23rq3dayz",
+              "title": "Unavailable",
+              "description": "Manus is the action engine that goes beyond answers to execute tasks, automate workflows, and extend your human reach.",
+              "url": "https://manus.im/unavailable",
+              "icon": "/uploads/favicon-d972c8d56bec.ico",
+              "tags": [],
+              "previewImage": "/uploads/preview-manus-im-77ff38ad12aa.webp"
+            },
+            {
+              "id": "site_1769839735305_er2rmorzf",
+              "title": "Chat",
+              "description": "访问 www.scnet.cn",
+              "url": "https://www.scnet.cn/ui/chatbot/",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.scnet.cn",
+              "tags": [],
+              "previewImage": "/uploads/preview-www-scnet-cn-a1ba762a4f1a.webp"
+            },
+            {
+              "id": "site_1769839873589_ohazsnoin",
+              "title": "问小白： 探索世界的AI搭子",
+              "description": "问小白 - 主动型AI助手，探索世界的AI搭子。顶级大模型免费使用，Deepseek R1/V3/V3.1、问小白5对标Openai-GPT5，支持AI联网搜索、AI学术搜索，Deep Research，AI图片编辑和生成，AI 智能体情感陪伴",
+              "url": "https://www.wenxiaobai.com/",
+              "icon": "/uploads/favicon-dcb05e9a575c.png",
+              "tags": [],
+              "previewImage": "/uploads/preview-www-wenxiaobai-com-fcfd1b745dea.webp"
+            },
+            {
+              "id": "site_1769839908966_douq8vabs",
+              "title": "讯飞智文",
+              "description": "讯飞智文，由科大讯飞推出的一键生成ppt/word产品。根据一句话、长文本、音视频等指令智能生成文档，同时支持在线编辑、美化、排版、导出、一键动效、自动生成演讲稿等功能，让AI全流程服务到底。",
+              "url": "https://zhiwen.xfyun.cn/home",
+              "icon": "/uploads/favicon-113f8723eb7b.png",
+              "tags": [],
+              "previewImage": "/uploads/preview-zhiwen-xfyun-cn-00994f295a5e.webp"
+            },
+            {
+              "id": "site_1769839932920_9pmohw98w",
+              "title": "橙篇AI",
+              "description": "",
+              "url": "https://cp.baidu.com/",
+              "icon": "/uploads/favicon-5317dcc3966e.ico",
+              "tags": [],
+              "previewImage": "/uploads/preview-cp-baidu-com-00994f295a5e.webp"
+            },
+            {
+              "id": "site_1769839963025_4r14r1rix",
+              "title": "讯飞星火",
+              "description": "讯飞星火大模型，是由科大讯飞推出的新一代认知智能大模型，拥有跨领域的知识和语言理解能力，能够基于自然对话方式理解与执行任务，提供语言理解、知识问答、逻辑推理、数学题解答、代码理解与编写等多种能力。",
+              "url": "https://xinghuo.xfyun.cn/",
+              "icon": "/uploads/favicon-3d1f9028222a.ico",
+              "tags": [],
+              "previewImage": "/uploads/preview-xinghuo-xfyun-cn-c801d418fa67.webp"
+            },
+            {
+              "id": "site_1769840024826_mso4loadf",
+              "title": "当贝AI官网",
+              "description": "当贝AI，体验DeepSeek满血版，聚合全网优质AI大模型，如DeepSeek-R1 671B、豆包、通义千问、智谱等。当贝AI知识库，深度AI解决方案，极速、高效、免费、无需注册、不限量！",
+              "url": "https://ai.dangbei.com/chat",
+              "icon": "/uploads/favicon-55b6c9d460a0.svg",
+              "tags": [],
+              "previewImage": "/uploads/preview-ai-dangbei-com-0061e0269c4a.webp"
+            },
+            {
+              "id": "site_1769931674203_sm179l23j",
+              "title": "ChatGPT",
+              "description": "访问 chat.openai.com",
+              "url": "https://chat.openai.com/",
+              "icon": "/assets/favicon_1769931664841.png",
+              "tags": []
+            },
+            {
+              "id": "site_1769931698365_70txy1sc0",
+              "title": "Midjourney",
+              "description": "An independent research lab exploring new mediums of thought and expanding the imaginative powers of the human species.",
+              "url": "https://www.midjourney.com/",
+              "icon": "/assets/favicon_1769931689669.png",
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "c7759167-041b-46ea-ab2c-c8af4b4bbb54",
+          "name": "编程网站",
+          "icon": "🌍",
+          "description": "编程网站",
+          "sites": [
+            {
+              "id": "site_1769842050103_90u7a3f2o",
+              "title": "TRAE",
+              "description": "TRAE AI IDE | 国内首款 AI 原生集成开发环境，深度集成 Doubao-1.5-pro 与 DeepSeek 模型，支持中文自然语言一键生成完整代码框架，实时预览前端效果并智能修复 BUG。首创 Builder 模式实现需求到代码的自动化开发，兼容 Windows/macOS 系统，官网下载即用。",
+              "url": "https://www.trae.cn/?utm_source=advertising&utm_medium=aibot_ug_cpa&utm_term=hw_trae_aibot",
+              "icon": "/uploads/favicon-280e5d027efe.png",
+              "tags": [],
+              "previewImage": "/uploads/preview-www-trae-cn-d1f995016700.webp"
+            },
+            {
+              "id": "site_1769842079640_507s1lfso",
+              "title": "Claude Code by Anthropic",
+              "description": "Anthropic&#x27;s agentic coding tool for developers. Claude Code understands your codebase, edits files, runs commands, and helps you ship faster.",
+              "url": "https://claude.com/product/claude-code",
+              "icon": "/uploads/favicon-d2ae74468660.png",
+              "tags": [],
+              "previewImage": "/uploads/preview-claude-com-bdf5e9e3f29a.webp"
+            },
+            {
+              "id": "site_1769842099899_tc3f3uhdl",
+              "title": "Cursor: The best coding agent",
+              "description": "Cursor 专为大幅提升您的生产力而打造，是最出色的编程智能体。",
+              "url": "https://cursor.com/cn?utm_source=ai-bot.cn",
+              "icon": "/uploads/favicon-77c6d4821111.ico",
+              "tags": [],
+              "previewImage": "/uploads/preview-cursor-com-ea1d52f51e59.webp"
+            },
+            {
+              "id": "site_1769931645363_5bhkt69kp",
+              "title": "Manus: Hands On AI",
+              "description": "Manus is the action engine that goes beyond answers to execute tasks, automate workflows, and extend your human reach.",
+              "url": "https://manus.im/",
+              "icon": "/uploads/favicon-d972c8d56bec.ico",
+              "tags": [],
+              "previewImage": "/uploads/preview-manus-im-6ab83789005a.webp"
+            }
+          ]
+        },
+        {
+          "id": "9b2b8b67-eafd-4bac-bfed-35e4d7dde309",
+          "name": "写作网站",
+          "icon": "🎨",
+          "description": "写作网站",
+          "sites": [
+            {
+              "id": "site_1769842624454_s0vt6xyyy",
+              "title": "蛙蛙写作",
+              "description": "蛙蛙写作辅助AI写文，帮助获取创意灵感，提供拆书、小说转剧本、视频生成等功能，是一款功能全面的AI智能写作工具。",
+              "url": "https://wawawriter.com/app/?utm_source=aigongjuji",
+              "icon": "/uploads/favicon-5c3344f9cc3e.ico",
+              "tags": [],
+              "previewImage": "/uploads/preview-wawawriter-com-0fa685fed388.webp"
+            },
+            {
+              "id": "site_1769931239357_ds6vml5hy",
+              "title": "自媒AI工具",
+              "description": "自媒AI工具，1分钟搞定AI创作，提供标题生成、文章生成、文章改写、简介生成、评论生成、优质文案、AI问答、短视频文案生成等多种AI工具",
+              "url": "https://m.zimeiai.com/appList",
+              "icon": "/uploads/favicon-e21c20fb49bb.png",
+              "tags": [],
+              "previewImage": "/uploads/preview-m-zimeiai-com-68f5a6c443ed.webp"
+            },
+            {
+              "id": "site_1769931424819_7xcw5odz5",
+              "title": "ChatPPT",
+              "description": "ChatPPT 是一款 AI 生成 PPT 在线工具，支持一句话生成 PPT、大纲生成、智能排版、美化润色与模板套用、智能演讲、AI路演，帮助你更快完成汇报、答辩、教学和商业演示，辅助职场办公人工更高效去创作PPT文档，目前接入超过2500+指令集，可以在1分钟内完成全篇PPT生成、设计与排版。",
+              "url": "https://www.chat-ppt.com/",
+              "icon": "/uploads/favicon-5d8931219f02.ico",
+              "tags": [],
+              "previewImage": "/uploads/preview-www-chat-ppt-com-ee2c0e01020c.webp"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1769696293315",
+      "name": "资源网站",
+      "icon": "📋",
+      "description": "",
+      "children": [
+        {
+          "id": "25728b47-2971-441a-b4a9-c7e7637aa407",
+          "name": "手册网站",
+          "icon": "🔗",
+          "description": "手册网站",
+          "sites": [
+            {
+              "id": "site_1769825994917_qys30lo97",
+              "title": "LeetCode Cookbook",
+              "description": "访问 books.halfrost.com",
+              "url": "https://books.halfrost.com/leetcode/ChapterOne/",
+              "icon": "/assets/favicon_1769825974283.png",
+              "tags": []
+            },
+            {
+              "id": "site_1769826026869_kj2s3d4dx",
+              "title": "算法通关手册",
+              "description": "算法通关手册（LeetCode） alt text 算法通关手册 📚 从零开始的「算法与数据结构」学习教程 一本系统讲解算法与数据结构、涵盖 LeetCode 题解的中文学习手册 代码仓库 PDF 下载 1. 本书简介 本书不仅仅只是一本算法题解书，更是一本算法与数据结构基础知识的讲解书。 超详细的 「算法与数据结构」 基础讲解教程，「LeetCod...",
+              "url": "https://algo.itcharge.cn/",
+              "icon": "/uploads/favicon-a2f46fa7c1fa.ico",
+              "tags": [],
+              "previewImage": "/uploads/preview-algo-itcharge-cn-01201c96936d.webp"
+            },
+            {
+              "id": "site_1769826053256_x7nw28h8k",
+              "title": "iTbook.team 技术速查手册",
+              "description": "最全的网站IT技术基础教程,介绍了PHP、MySQL、Linux、web服务器、redis、memcache、javascript、HTML5、css、seo等各种编程语言配置、使用、技巧、安全等知识。",
+              "url": "https://www.dba.cn/",
+              "icon": "/uploads/favicon-ae01abede249.ico",
+              "tags": [],
+              "previewImage": "/uploads/preview-www-dba-cn-0e67a3f833fb.webp"
+            },
+            {
+              "id": "site_1769826094638_ucc5l155h",
+              "title": "Spring Cloud Dalston 中文文档 参考手册 中文版",
+              "description": "访问 www.springcloud.cc",
+              "url": "https://www.springcloud.cc/spring-cloud-dalston.html",
+              "icon": "/assets/favicon_1769826084069.png",
+              "tags": [],
+              "previewImage": "/uploads/preview-www-springcloud-cc-229393429a4a.webp"
+            },
+            {
+              "id": "site_1769826120669_pecvll6zc",
+              "title": "Spring Data JPA 中文文档 参考手册 中文版",
+              "description": "",
+              "url": "https://www.springcloud.cc/spring-data-jpa.html",
+              "icon": "/assets/favicon_1769826109374.png",
+              "tags": [],
+              "previewImage": "/uploads/preview-www-springcloud-cc-c8e93cfbde74.webp"
+            },
+            {
+              "id": "site_1769826154798_ui7ja3ir4",
+              "title": "Bootstrap中文网",
+              "description": "Bootstrap是Twitter推出的一个用于前端开发的开源工具包。它由Twitter的设计师Mark Otto和Jacob Thornton合作开发，是一个CSS/HTML框架。目前，Bootstrap最新版本为5.0 。Bootstrap中文网致力于为广大国内开发者提供详尽的中文文档、代码实例等，助力开发者掌握并使用这一框架。",
+              "url": "https://www.bootcss.com/",
+              "icon": "/uploads/favicon-aa0ff2a4a3d3.ico",
+              "tags": [],
+              "previewImage": "/uploads/preview-www-bootcss-com-4ef7f244d60f.webp"
+            },
+            {
+              "id": "site_1769826174846_a57to3kal",
+              "title": "基础入门",
+              "description": "",
+              "url": "https://www.elastic.co/guide/cn/elasticsearch/guide/current/getting-started.html",
+              "icon": "/uploads/favicon-0cb99a895bcc.ico",
+              "tags": [],
+              "previewImage": "/uploads/preview-www-elastic-co-9580fe67ee0b.webp"
+            },
+            {
+              "id": "site_1769826196638_924ptrhws",
+              "title": "Dubbo 文档",
+              "description": "Apache Dubbo 是一款支持多语言的、易用的 web 和 rpc 框架，同时为构建企业级微服务提供服务发现、流量治理、可观测、认证鉴权等能力、工具与最佳实践。",
+              "url": "https://cn.dubbo.apache.org/zh-cn/overview/home/",
+              "icon": "/uploads/favicon-0c38d91045bc.ico",
+              "tags": [],
+              "previewImage": "/uploads/preview-cn-dubbo-apache-org-6b04e646928a.webp"
+            },
+            {
+              "id": "site_1769826225886_5f2230yeu",
+              "title": "简介",
+              "description": "MyBatis-Plus 是一个 MyBatis 的增强工具，在 MyBatis 的基础上只做增强不做改变，为简化开发、提高效率而生。支持 Lambda 形式调用、内置分页插件、代码生成器等强大功能。",
+              "url": "https://baomidou.com/introduce/",
+              "icon": "/uploads/favicon-7fed2d78cb8e.svg",
+              "tags": [],
+              "previewImage": "/uploads/preview-baomidou-com-bb988d155c37.webp"
+            },
+            {
+              "id": "site_1769826283831_nzmcfkdb4",
+              "title": "为什么选择 RocketMQ",
+              "description": "AI 原生异步通信引擎",
+              "url": "https://rocketmq.apache.org/zh/docs/",
+              "icon": "/uploads/favicon-cac1ea62bf8a.ico",
+              "tags": [],
+              "previewImage": "/uploads/preview-rocketmq-apache-org-1bd700a35788.webp"
+            },
+            {
+              "id": "site_1769826304047_60wizopsb",
+              "title": "RabbitMQ Documentation",
+              "description": "",
+              "url": "https://www.rabbitmq.com/docs",
+              "icon": "/assets/favicon_1769826296666.png",
+              "tags": [],
+              "previewImage": "/uploads/preview-www-rabbitmq-com-a6eba8a6bb2f.webp"
+            },
+            {
+              "id": "site_1769826322487_q6oiri976",
+              "title": "ActiveMQ",
+              "description": "",
+              "url": "https://activemq.apache.org/",
+              "icon": "/uploads/favicon-2e9f66495abf.png",
+              "tags": [],
+              "previewImage": "/uploads/preview-activemq-apache-org-fddf204a3506.webp"
+            },
+            {
+              "id": "site_1769826350248_k1g5jwoxw",
+              "title": "菜鸟教程",
+              "description": "菜鸟教程(www.runoob.com)提供了编程的基础技术教程, 介绍了HTML、CSS、Javascript、Python，Java，Ruby，C，PHP , MySQL等各种编程语言的基础知识。 同时本站中也提供了大量的在线实例，通过实例，您可以更好的学习编程。..",
+              "url": "https://www.runoob.com/",
+              "icon": "/uploads/favicon-a4fac8550d33.ico",
+              "tags": [],
+              "previewImage": "/uploads/preview-www-runoob-com-f318a44bf8b8.webp"
+            },
+            {
+              "id": "site_1769826369384_1kcmqi3wq",
+              "title": "W3School 在线教程",
+              "description": "提供结构清晰、通俗易懂的 Web 开发教程，内含海量实战示例，涵盖 HTML、CSS、JavaScript、SQL、Python、PHP、Bootstrap、Java、XML 等多种技术。",
+              "url": "https://www.w3school.com.cn/",
+              "icon": "/uploads/favicon-a6dc3ed45e58.svg",
+              "tags": [],
+              "previewImage": "/uploads/preview-www-w3school-com-cn-5567a5057c9a.webp"
+            },
+            {
+              "id": "site_1769826387847_7v6ilk6go",
+              "title": "鸟哥Linux命令大全",
+              "description": "最专业的Linux命令大全，内容包含Linux命令手册、Linux命令详解、Linux命令学习、Linux命令行与shell脚本编程大全、Linux命令实例讲解，值得收藏的Linux命令速查手册。",
+              "url": "https://man.niaoge.com/",
+              "icon": "/uploads/favicon-78e7400ae9df.ico",
+              "tags": [],
+              "previewImage": "/uploads/preview-man-niaoge-com-190e980229ce.webp"
+            },
+            {
+              "id": "site_1769826420792_6qtfj3y0m",
+              "title": "Nacos 配置中心简介",
+              "description": "Nacos 配置中心简介，Nacos 是什么",
+              "url": "https://nacos.io/zh-cn/docs/what-is-nacos.html",
+              "icon": "/uploads/favicon-7de199575d9b.ico",
+              "tags": [],
+              "previewImage": "/uploads/preview-nacos-io-07c991b56e25.webp"
+            },
+            {
+              "id": "site_1769826464799_woen2o7uq",
+              "title": "简介",
+              "description": "Vue.js - 渐进式的 JavaScript 框架",
+              "url": "https://cn.vuejs.org/guide/introduction.html",
+              "icon": "/uploads/favicon-6f97b1f82a6d.svg",
+              "tags": [],
+              "previewImage": "/uploads/preview-cn-vuejs-org-8f707c089643.webp"
+            },
+            {
+              "id": "site_1769826493800_k4kri4fbm",
+              "title": "Redis 中文教程",
+              "description": "Redis 中文教程 - Redis中文学习网提供Redis教程、命令手册、安装配置、性能优化、集群搭建等中文文档。",
+              "url": "https://redis.com.cn/tutorial.html",
+              "icon": "/uploads/favicon-5a7d8308d545.png",
+              "tags": [],
+              "previewImage": "/uploads/preview-redis-com-cn-312f0a72c172.webp"
+            },
+            {
+              "id": "site_1769826512367_0cx2m0r7j",
+              "title": "Redis 命令参考 &mdash; Redis 命令参考",
+              "description": "",
+              "url": "http://doc.redisfans.com/",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=doc.redisfans.com",
+              "tags": [],
+              "previewImage": "/uploads/preview-doc-redisfans-com-00994f295a5e.webp"
+            },
+            {
+              "id": "site_1769826546128_d6eo2dm49",
+              "title": "在线文档",
+              "description": "OSCHINA.NET在线API文档，提供Java API、PHP文档、C语言参考、C++参考、JQuery、Scala等十几种语言的一百多种文档。",
+              "url": "https://tool.oschina.net/apidocs/apidoc?api=nginx-zh",
+              "icon": "/uploads/favicon-5f0fb2493c4f.ico",
+              "tags": [],
+              "previewImage": "/uploads/preview-tool-oschina-net-64b0cbca0f2d.webp"
+            },
+            {
+              "id": "site_1769826569441_4u4zvzaxg",
+              "title": "Kubernetes 文档",
+              "description": "Kubernetes 是一个开源的容器编排引擎，用来对容器化应用进行自动部署、扩缩和管理。此开源项目由云原生计算基金会（CNCF）托管。",
+              "url": "https://kubernetes.io/zh-cn/docs/home/",
+              "icon": "/assets/favicon_1769826560783.png",
+              "tags": [],
+              "previewImage": "/uploads/preview-kubernetes-io-83de260f4794.webp"
+            },
+            {
+              "id": "site_1769826587208_an1iebltr",
+              "title": "Git",
+              "description": "",
+              "url": "https://git-scm.com/book/zh/v2",
+              "icon": "/uploads/favicon-833cdb980207.ico",
+              "tags": [],
+              "previewImage": "/uploads/preview-git-scm-com-317da2216fe6.webp"
+            },
+            {
+              "id": "site_1769826604496_wjjqmxqto",
+              "title": "ES6 入门教程",
+              "description": "",
+              "url": "https://es6.ruanyifeng.com/#docs/let",
+              "icon": "/uploads/favicon-e20417138857.ico",
+              "tags": [],
+              "previewImage": "/uploads/preview-es6-ruanyifeng-com-a4ec53905898.webp"
+            },
+            {
+              "id": "site_1769826622152_eh96dvrok",
+              "title": "uni",
+              "description": "uni-app,uniCloud,serverless,快速体验,看视频，10分钟了解uni-app,为什么要选择uni-app？,功能框架图,一套代码，运行到多个平台",
+              "url": "https://uniapp.dcloud.net.cn/",
+              "icon": "/uploads/favicon-1142f37611a7.png",
+              "tags": [],
+              "previewImage": "/uploads/preview-uniapp-dcloud-net-cn-ee2e48dc7d80.webp"
+            },
+            {
+              "id": "site_1769826638073_e7wyg7svq",
+              "title": "MinIO对象存储 Kubernetes &#8212; MinIO中文文档",
+              "description": "访问 www.minio.org.cn",
+              "url": "https://www.minio.org.cn/docs/minio/kubernetes/upstream/index.html",
+              "icon": "/uploads/favicon-c88412c31c4e.png",
+              "tags": [],
+              "previewImage": "/uploads/preview-www-minio-org-cn-e5c9f504e639.webp"
+            },
+            {
+              "id": "site_1769826656016_qapa9p1o8",
+              "title": "快速开始",
+              "description": "快速开始Knife4j",
+              "url": "https://doc.xiaominfo.com/docs/quick-start",
+              "icon": "/uploads/favicon-6838ad4034c7.ico",
+              "tags": [],
+              "previewImage": "/uploads/preview-doc-xiaominfo-com-0856cb6a94b2.webp"
+            },
+            {
+              "id": "site_1769826679376_hjdwsnoi3",
+              "title": "QuickRef.ME",
+              "description": "Share quick reference and cheat sheet for developers",
+              "url": "https://quickref.me/",
+              "icon": "/uploads/favicon-f598a361cd3c.png",
+              "tags": [],
+              "previewImage": "/uploads/preview-quickref-me-39f815fb154d.webp"
+            },
+            {
+              "id": "site_1769826722569_p3knmnfk0",
+              "title": "快速开始",
+              "description": "一个优雅的 MyBatis 增强框架",
+              "url": "https://mybatis-flex.com/zh/intro/getting-started.html",
+              "icon": "/uploads/favicon-e3073f75c530.png",
+              "tags": [],
+              "previewImage": "/uploads/preview-mybatis-flex-com-2259e1ef2ca7.webp"
+            },
+            {
+              "id": "item-1769917711005",
+              "title": "OpenAPI 规范",
+              "description": "OpenAPI 规范（中文版）（Swagger 规范中文版）",
+              "url": "https://openapi.apifox.cn/",
+              "icon": "/uploads/favicon-24c496399112.png",
+              "tags": [],
+              "previewImage": "/uploads/preview-openapi-apifox-cn-73a18d3bd360.webp"
+            },
+            {
+              "id": "site_1769918007676_carrtbaxk",
+              "title": "docsify",
+              "description": "A magical documentation generator.",
+              "url": "https://docsify.js.org/#/",
+              "icon": "/uploads/favicon-588302073690.ico",
+              "tags": [],
+              "previewImage": "/uploads/preview-docsify-js-org-5cb3bff7e366.webp"
+            },
+            {
+              "id": "site_1769918138138_bfd514k70",
+              "title": "目录 · redisson/redisson Wiki · GitHub",
+              "description": "Redisson: the high-level Java client for Redis and Valkey. Sync/Async/RxJava/Reactive API. Over 50 Valkey and Redis based Java objects and services: Set, Multimap, SortedSet, Map, List, Queue, Deque, Semaphore, Lock, AtomicLong, Map Reduce, Bloom filter, Spring, Tomcat, Scheduler, JCache API, Hibernate, RPC, local cache.. - 目录 · redisson/redisson Wiki",
+              "url": "https://github.com/redisson/redisson/wiki/%E7%9B%AE%E5%BD%95",
+              "icon": "/uploads/favicon-6a9577cd4f7f.svg",
+              "tags": [],
+              "previewImage": "/uploads/preview-github-com-c6c8fa19c8d9.webp"
+            },
+            {
+              "id": "site_1769918157835_nadshn6go",
+              "title": "Data Structure Visualization",
+              "description": "",
+              "url": "https://www.cs.usfca.edu/~galles/visualization/Algorithms.html",
+              "icon": "/uploads/favicon-317fd9e9c82c.ico",
+              "tags": [],
+              "previewImage": "/uploads/preview-www-cs-usfca-edu-5e96fa97d698.webp"
+            },
+            {
+              "id": "site_1769918180569_3wdldpplk",
+              "title": "GitHub",
+              "description": "DataX是阿里云DataWorks数据集成的开源版本。. Contribute to alibaba/DataX development by creating an account on GitHub.",
+              "url": "https://github.com/alibaba/DataX",
+              "icon": "/uploads/favicon-6a9577cd4f7f.svg",
+              "tags": [],
+              "previewImage": "/uploads/preview-github-com-c145fd84743b.webp"
+            },
+            {
+              "id": "site_1769918273089_f64kv5u7g",
+              "title": "Elastic",
+              "description": "借助 Elasticsearch Platform，释放洞察价值并推动成果落地。借助专为加快洞察获取而设计的企业解决方案，深入了解您的数据，找到真正重要的答案。立即试用 Elastic。...",
+              "url": "https://www.elastic.co/cn/",
+              "icon": "/uploads/favicon-0cb99a895bcc.ico",
+              "tags": [],
+              "previewImage": "/uploads/preview-www-elastic-co-c2938fe80f8f.webp"
+            },
+            {
+              "id": "site_1769918362696_i8cunxc37",
+              "title": "arthas",
+              "description": "arthas 使用文档",
+              "url": "https://arthas.aliyun.com/",
+              "icon": "/uploads/favicon-8cfbfc25e04f.ico",
+              "tags": [],
+              "previewImage": "/uploads/preview-arthas-aliyun-com-229a215f71c1.webp"
+            },
+            {
+              "id": "site_1769929479259_ooq5lt4ps",
+              "title": "Element",
+              "description": "Element，一套为开发者、设计师和产品经理准备的基于 Vue 2.0 的桌面端组件库",
+              "url": "https://element.eleme.cn/#/zh-CN/component/installation",
+              "icon": "/uploads/favicon-bda1b1f9422b.ico",
+              "tags": [],
+              "previewImage": "/uploads/preview-element-eleme-cn-e6489f8e0ece.webp"
+            },
+            {
+              "id": "site_1769931964557_648tu5mp6",
+              "title": "Vue.js",
+              "description": "Vue.js - 渐进式的 JavaScript 框架",
+              "url": "https://cn.vuejs.org/",
+              "icon": "/uploads/favicon-6f97b1f82a6d.svg",
+              "tags": [],
+              "previewImage": "/uploads/preview-cn-vuejs-org-e4610a6f4382.webp"
+            }
+          ]
+        },
+        {
+          "id": "ec0e16d4-34e1-4a07-b697-ffd92c4e2d4c",
+          "name": "页面网站",
+          "icon": "🎨",
+          "description": "页面网站",
+          "sites": [
+            {
+              "id": "item-1769869578274",
+              "title": "SpringCloud简介 · 语雀",
+              "description": "0、参考笔记SpringCloud SpringClo...",
+              "url": "https://www.yuque.com/mrlinxi/pxvr4g/wcwd39",
+              "icon": "/uploads/favicon-8dabf6ef0831.png",
+              "tags": [],
+              "previewImage": "/uploads/preview-www-yuque-com-faf4ff74e919.webp"
+            },
+            {
+              "id": "item-1769869604042",
+              "title": "SpringCloud · 语雀",
+              "description": "SpringCloud",
+              "url": "https://www.yuque.com/fenghuazhengmao-achrz/arcbv3",
+              "icon": "/uploads/favicon-8dabf6ef0831.png",
+              "tags": [],
+              "previewImage": "/uploads/preview-www-yuque-com-6ae423dd3ee6.webp"
+            },
+            {
+              "id": "site_1769930717368_vmfbxc778",
+              "title": "PPT����",
+              "description": "PPT����",
+              "url": "https://www.1ppt.com/xiazai/",
+              "icon": "/uploads/favicon-fc12d3e104cf.ico",
+              "tags": [],
+              "previewImage": "/uploads/preview-www-1ppt-com-7284a4283232.webp"
+            },
+            {
+              "id": "site_1769930909167_3ouwpcu79",
+              "title": "iconfont",
+              "description": "iconfont-国内功能很强大且图标内容很丰富的矢量图标库，提供矢量图标下载、在线存储、格式转换等功能。阿里巴巴体验团队倾力打造，设计和前端开发的便捷工具",
+              "url": "https://www.iconfont.cn/?spm=a313x.home_2025.i3.d4d0a486a.38173a81mcdfIo",
+              "icon": "/uploads/favicon-0972f73e5b58.svg",
+              "tags": [],
+              "previewImage": "/uploads/preview-www-iconfont-cn-e85dcd6babcc.webp"
+            },
+            {
+              "id": "site_1769931552171_r68iuksvs",
+              "title": "跨源资源共享",
+              "description": "跨源资源共享（CORS，或通俗地译为跨域资源共享）是一种基于 HTTP 头的机制，该机制通过允许服务器标示除了它自己以外的其他源（域、协议或端口），使得浏览器允许这些源访问加载自己的资源。跨源资源共享还通过一种机制来检查服务器是否会允许要发送的真实请求，该机制通过浏览器发起一个到服务器托管的跨源资源的“预检”请求。在预检中，浏览器发送的头中标示有 HTTP 方法和真实请求中会用到的头。",
+              "url": "https://developer.mozilla.org/zh-CN/docs/Web/HTTP/Guides/CORS",
+              "icon": "/uploads/favicon-5a777406a408.ico",
+              "tags": [],
+              "previewImage": "/uploads/preview-developer-mozilla-or-92416509324a.webp"
+            },
+            {
+              "id": "site_1769931814628_lw7lovan5",
+              "title": "IDEA激活码2025",
+              "description": "IDEA激活码2025,IDEA激活码2026,IDEA激活码2024,IDEA激活码2023,IDEA激活码2022",
+              "url": "https://www.ajihuo.com/idea/5937.html",
+              "icon": "/uploads/favicon-852824c5e702.png",
+              "tags": [],
+              "previewImage": "/uploads/preview-www-ajihuo-com-7f8525f52999.webp"
+            }
+          ]
+        },
+        {
+          "id": "c495f409-e314-44d3-92e8-4580bf1dd696",
+          "name": "笔记网站",
+          "icon": "💼",
+          "description": "笔记网站",
+          "sites": []
+        },
+        {
+          "id": "601db925-6c73-403e-9f06-d43076e6b0b8",
+          "name": "学习资料",
+          "icon": "📋",
+          "description": "学习资料",
+          "sites": [
+            {
+              "id": "item-1769869386592",
+              "title": "百度网盘 请输入提取码",
+              "description": "百度网盘为您提供文件的网络备份、同步和分享服务。空间大、速度快、安全稳固，支持教育网加速，支持手机端。注册使用百度网盘即可享受免费存储空间",
+              "url": "https://pan.baidu.com/share/init?surl=Kg7UUpO3wwALX6x28cWA7A&pwd=8op3#list/path=%2F",
+              "icon": "/uploads/favicon-7e352d358af2.ico",
+              "tags": [],
+              "previewImage": "/uploads/preview-pan-baidu-com-4592c3d29ad5.webp"
+            },
+            {
+              "id": "item-1769869475841",
+              "title": "黑马程序员官网",
+              "description": "访问 www.itheima.com",
+              "url": "https://www.itheima.com/",
+              "icon": "/uploads/favicon-6ec225631921.ico",
+              "tags": [],
+              "previewImage": "/uploads/preview-www-itheima-com-9835cf13a1c5.webp"
+            },
+            {
+              "id": "item-1769869527482",
+              "title": "百度网盘 请输入提取码",
+              "description": "百度网盘为您提供文件的网络备份、同步和分享服务。空间大、速度快、安全稳固，支持教育网加速，支持手机端。注册使用百度网盘即可享受免费存储空间",
+              "url": "https://pan.baidu.com/s/1LxIxcHDO7SYB96SE-GZfuQ?pwd=dor4#list/path=%2F",
+              "icon": "/uploads/favicon-7e352d358af2.ico",
+              "tags": [],
+              "previewImage": "/uploads/preview-pan-baidu-com-4d73c6d14c5c.webp"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1769696340719",
+      "name": "工具网站",
+      "icon": "📂",
+      "description": "",
+      "children": [
+        {
+          "id": "5abce563-3bcb-4a8f-b3dd-9277b28978d4",
+          "name": "在线网站",
+          "icon": "🏢",
+          "description": "在线网站",
+          "sites": [
+            {
+              "id": "site_1769825149576_c9hzhpqgi",
+              "title": "VS Code",
+              "description": "访问 vscode.dev",
+              "url": "https://vscode.dev/?vscode-lang=zh-cn",
+              "icon": "/assets/favicon_1769825135733.png",
+              "tags": [],
+              "previewImage": "/uploads/preview-vscode-dev-dc23ab92696d.webp"
+            },
+            {
+              "id": "site_1769825207768_yfj14refq",
+              "title": "Compare text and find differences online or offline",
+              "description": "Compare text, files, and code (e.g. json, xml) to find differences with Diffchecker online for free! Use our desktop app for private, offline diffs.",
+              "url": "https://www.diffchecker.com/",
+              "icon": "/uploads/favicon-50bc493aa1bd.ico",
+              "tags": [],
+              "previewImage": "/uploads/preview-www-diffchecker-com-cbccace97566.webp"
+            },
+            {
+              "id": "site_1769825244137_vth4p4gx7",
+              "title": "JSON在线解析",
+              "description": "在线,JSON,JSON 校验,格式化,xml转json 工具,在线工具,json视图,可视化,程序,服务器,域名注册,正则表达式,测试,在线json格式化工具,json 格式化,json格式化工具,json字符串格式化,json 在线查看器,json在线,json 在线验证,json tools online,在线文字对比工具。",
+              "url": "https://www.sojson.com/simple_json.html",
+              "icon": "/uploads/favicon-080c7a4eeb8f.png",
+              "tags": [],
+              "previewImage": "/uploads/preview-www-sojson-com-53500293a76f.webp"
+            },
+            {
+              "id": "site_1769825296697_o0h3gzzft",
+              "title": "在线 XML 格式化",
+              "description": "#about pre {             background-color: #282a36; /* 深色背景 */             color: #f8f8f2; /* 浅色文字 */             padding: 1.5em; /* 内边距 */             border-radius: 2px; /* 圆角 */             font-family: &#039;Fira Cod..",
+              "url": "https://www.jyshare.com/front-end/710/",
+              "icon": "/uploads/favicon-ca0d612c52ae.ico",
+              "tags": [],
+              "previewImage": "/uploads/preview-www-jyshare-com-33ef909213a2.webp"
+            },
+            {
+              "id": "site_1769825332234_08l70allg",
+              "title": "图片取色器/拾色器",
+              "description": "在线图片取色器是一款非常简单实用取色器工具，我们可以通过上传图片，并点击图片中的图形区域即可对图片进行取色。鼠标点击图片显示区域中的图片即可在下方显示点击位置的颜色值（颜色值分为十六进制与RBGA两种方式显示）。..",
+              "url": "https://www.jyshare.com/front-end/6214/#e1d215",
+              "icon": "/uploads/favicon-ca0d612c52ae.ico",
+              "tags": [],
+              "previewImage": "/uploads/preview-www-jyshare-com-0fe3b4e41af6.webp"
+            },
+            {
+              "id": "site_1769825364563_ybvulmvz5",
+              "title": "在线代码对比/合并工具",
+              "description": "在线代码对比/合并工具方便程序员查找出2段代码间的差异，并能进行合并。",
+              "url": "https://www.bejson.com/others/comparecode/",
+              "icon": "/uploads/favicon-80ed3c7e2618.ico",
+              "tags": [],
+              "previewImage": "/uploads/preview-www-bejson-com-f18ee2cfbc23.webp"
+            },
+            {
+              "id": "site_1769930644742_uv1krm6sl",
+              "title": "PDF24 Tools: Free PDF solutions for all PDF problems",
+              "description": "Free online PDF tools to merge, compress, create, edit and convert PDFs. ✓ No limits and no watermarks. ✓ No installation or registration required.",
+              "url": "https://tools.pdf24.org/en/",
+              "icon": "/uploads/favicon-bf9bc4e50d36.png",
+              "tags": [],
+              "previewImage": "/uploads/preview-tools-pdf24-org-917ace4675d2.webp"
+            },
+            {
+              "id": "site_1769930669567_g74q45fqg",
+              "title": "iLovePDF",
+              "description": "iLovePDF网站提供PDF文件在线转换服务。它完全免费，而且使用方便。无论是合并PDF文件、拆分PDF文件、压缩PDF文件、Office文件转换为PDF文件，还是PDF转换为JPG图片等，iLovePDF都能满足您的需求！",
+              "url": "https://www.ilovepdf.com/zh-cn",
+              "icon": "/uploads/favicon-bf36558ad2fb.png",
+              "tags": [],
+              "previewImage": "/uploads/preview-www-ilovepdf-com-c45c9cfa56fb.webp"
+            },
+            {
+              "id": "site_1769930784702_hnm8vxr33",
+              "title": "iP地址查询",
+              "description": "公网ip地址归属地查询",
+              "url": "https://www.ip138.com/",
+              "icon": "/uploads/favicon-bbf1973e0ba2.ico",
+              "tags": [],
+              "previewImage": "/uploads/preview-www-ip138-com-04172f760f31.webp"
+            },
+            {
+              "id": "site_1769930831461_96ieaey18",
+              "title": "在线JSON校验格式化工具",
+              "description": "在线,JSON,JSON 校验,格式化,xml转json 工具,在线工具,json视图,可视化,程序,服务器,域名注册,正则表达式,测试,在线json格式化工具,json 格式化,json格式化工具,json字符串格式化,json 在线查看器,json在线,json 在线验证,json tools online,在线文字对比工具",
+              "url": "https://www.bejson.com/",
+              "icon": "/uploads/favicon-80ed3c7e2618.ico",
+              "tags": [],
+              "previewImage": "/uploads/preview-www-bejson-com-d6553d266b9e.webp"
+            },
+            {
+              "id": "site_1769930856701_uslgg28e8",
+              "title": "沐杉实用工具",
+              "description": "沐杉实用工具为您提供json格式化,json代码压缩,json校验解析,json数组解析,json转xml,xml转json,json解析,json在线解析,json在线解析及格式化,unix时间戳转换,CSS美化压缩,json美化,json格式化输出,json数组,json实体类,json视图,程序加密解密等",
+              "url": "http://tool.e-yn.com/",
+              "icon": "/assets/favicon_1769930848122.ico",
+              "tags": []
+            },
+            {
+              "id": "site_1769930974436_ie0nnnbj9",
+              "title": "在线工具",
+              "description": "在线工具,开发人员工具,代码格式化、压缩、加密、解密,下载链接转换,json格式化,正则测试工具,favicon在线制作,字帖工具,中文简繁体转换,迅雷下载链接转换,进制转换,二维码,照片压缩,pdf合并",
+              "url": "https://tool.lu/",
+              "icon": "/uploads/favicon-e5011c8a71ff.ico",
+              "tags": [],
+              "previewImage": "/uploads/preview-tool-lu-2f38991f543d.webp"
+            },
+            {
+              "id": "site_1769931029392_xntiz3j2m",
+              "title": "时间时钟",
+              "description": "访问 www.24timemap.com",
+              "url": "http://www.24timemap.com/",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.24timemap.com",
+              "tags": [],
+              "previewImage": "/uploads/preview-www-24timemap-com-14b51bddb135.webp"
+            },
+            {
+              "id": "site_1769931451318_12tnhbw40",
+              "title": "docsmall",
+              "description": "docsmall 提供免费的在线图片、GIF、PDF处理，包括图片压缩、裁剪、改尺寸，PDF合并、分割、压缩、页面调整等功能。",
+              "url": "https://docsmall.com/",
+              "icon": "/uploads/favicon-ebf309cbabd6.png",
+              "tags": [],
+              "previewImage": "/uploads/preview-docsmall-com-e01a3c7da665.webp"
+            },
+            {
+              "id": "site_1773383374706_lsey3er1x",
+              "title": "EasyVoice",
+              "description": "EasyVoice: Convert your novels and large texts into natural, fluent speech with multi-role voice options and customizable settings.",
+              "url": "https://easyvoice.ioplus.tech/",
+              "icon": "/uploads/favicon-79f6e04adadf.ico",
+              "tags": [],
+              "previewImage": "/uploads/preview-easyvoice-ioplus-tec-6b1bdb014356.webp"
+            }
+          ]
+        },
+        {
+          "id": "e172528b-85f4-4135-b863-5e351a39edb3",
+          "name": "处理工具",
+          "icon": "💼",
+          "description": "处理工具",
+          "sites": [
+            {
+              "id": "site_1769840375470_tq27h7cc2",
+              "title": "精美的原型模版和设计例子",
+              "description": "摹客模板例子 - 海量原型设计免费模板。精美原型、组件模板和设计例子，一键保存，高效复用，让设计更快更简单。",
+              "url": "https://www.mockplus.cn/example/rp",
+              "icon": "/uploads/favicon-0c5b97a1c143.ico",
+              "tags": [],
+              "previewImage": "/uploads/preview-www-mockplus-cn-eded8316d28d.webp"
+            },
+            {
+              "id": "item-1769870331638",
+              "title": "vivo办公套件",
+              "description": "vivo 办公套件是集合 OriginOS  生产力应用的多端协作办公工具，支持 Windows、Mac 和网页版，轻松实现手机、平板与电脑间跨屏互动、键鼠协同、远程控制与文件传输管理，同时将原子笔记、日历、相册等多个应用聚合其中，为你提供更高效便捷的办公体验。",
+              "url": "https://pc.vivo.com/",
+              "icon": "/uploads/favicon-c489ee866caf.png",
+              "tags": [],
+              "previewImage": "/uploads/preview-pc-vivo-com-5824488a0e7f.webp"
+            },
+            {
+              "id": "site_1769930576274_9jjf7minx",
+              "title": "��������������������",
+              "description": "��������������������",
+              "url": "https://www.t-x-m.com/SequenceMumberGenerator/RandomNumber.asp",
+              "icon": "/assets/favicon_1769930555642.png",
+              "tags": [],
+              "previewImage": "/uploads/preview-www-t-x-m-com-58c1d4a894ab.webp"
+            },
+            {
+              "id": "site_1769930613750_0s9t21owv",
+              "title": "在线抠图软件",
+              "description": "remove.bg在线抠图软件轻松实现一键抠图，只需上传图片，无需其他操作，即可100%自动去除图片背景。",
+              "url": "https://www.remove.bg/zh",
+              "icon": "/uploads/favicon-a052fac478eb.png",
+              "tags": [],
+              "previewImage": "/uploads/preview-www-remove-bg-fd94f642ac60.webp"
+            },
+            {
+              "id": "site_1769931003557_fvy7l25b1",
+              "title": "互传网页版",
+              "description": "网页传无需数据线，只需要连接网络即可通过浏览器管理自己的安卓(android)手机数据和iphone手机数据，可以备份、还原、下载、上传安卓（android）数据和iphone手机数据。",
+              "url": "http://as.vivo.com/",
+              "icon": "/uploads/favicon-e3b0c44298fc.ico",
+              "tags": [],
+              "previewImage": "/uploads/preview-as-vivo-com-961331346aa2.webp"
+            },
+            {
+              "id": "site_1769931059277_rqjggrmns",
+              "title": "Web Apps by 123apps",
+              "description": "",
+              "url": "https://123apps.com/cn/",
+              "icon": "/uploads/favicon-8c204ef0093f.svg",
+              "tags": [],
+              "previewImage": "/uploads/preview-123apps-com-8d61c78145d5.webp"
+            },
+            {
+              "id": "site_1769931131789_ciwtlmgmp",
+              "title": "最美证件照",
+              "description": "在线轻松制作证件照，智能生成多种证件照尺寸及背景模板（护照，签证，社保卡）。一键更换红，蓝，白三种背景底色，快速生成一寸或二寸证件照",
+              "url": "https://www.logosc.cn/design/tools/passport-photo",
+              "icon": "/uploads/favicon-62916cd65dae.svg",
+              "tags": [],
+              "previewImage": "/uploads/preview-www-logosc-cn-1fbfd382d8e5.webp"
+            },
+            {
+              "id": "site_1769931171038_t6atioyiq",
+              "title": "Shadowrocket / Clash 科学上网入门教程",
+              "description": "为小白用户提供Shadowrocket和Clash科学上网最全入门教程，支持iOS/Android系统，一键订阅节点，轻松访问YouTube、TikTok、ChatGPT等热门网站，解决网络限制、访问失败、加载慢等问题，永久免费节点持续更新。",
+              "url": "http://www.shadowrocket.live/index.html",
+              "icon": "/uploads/favicon-830a8f41ea57.png",
+              "tags": [],
+              "previewImage": "/uploads/preview-www-shadowrocket-liv-f5ba33d1790e.webp"
+            },
+            {
+              "id": "site_1769931201765_1euamzso7",
+              "title": "软件安装站",
+              "description": "访问 mp.weixin.qq.com",
+              "url": "https://mp.weixin.qq.com/s/P8ZQ2JRCSzuHU_2OdV7z1A",
+              "icon": "/assets/favicon_1769931187203.png",
+              "tags": []
+            },
+            {
+              "id": "site_1769932174858_k241p8ir2",
+              "title": "jetbra破解站",
+              "description": "访问 3.jetbra.in",
+              "url": "https://3.jetbra.in/",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=3.jetbra.in",
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "f5a40fb7-7409-4695-a336-139ce08e8add",
+          "name": "导航网站",
+          "icon": "📋",
+          "description": "导航网站",
+          "sites": [
+            {
+              "id": "site_1769823869584_u44ijcfrt",
+              "title": "huahan.cc画函站",
+              "description": "huahan.cc泛微OA工程师导航 - 打造专业的OA系统技术支持与资源分享平台, 为泛微OA系统工程师和使用者提供技术支持、插件下载与知识分享站点导航, 助力你快速找到所需的信息。",
+              "url": "https://huahan.cc/",
+              "icon": "/uploads/favicon-4eed931aad15.png",
+              "tags": [],
+              "previewImage": "/uploads/preview-huahan-cc-4edd7445fb2d.webp"
+            },
+            {
+              "id": "site_1769824009081_jlt71y8uo",
+              "title": "老朱工具箱",
+              "description": "一个专门为独立开发者推荐实用工具，提升开发效率，启发创作灵感而打造的一站式资源、工具箱导航网站。",
+              "url": "https://nav.ilaozhu.com/",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=nav.ilaozhu.com",
+              "tags": [],
+              "previewImage": "/uploads/preview-nav-ilaozhu-com-11f421181a58.webp"
+            },
+            {
+              "id": "site_1769824157674_efctmio0d",
+              "title": "Tik128跨境电商 &#8211; TikTok运营",
+              "description": "访问 tik128.com",
+              "url": "https://tik128.com/",
+              "icon": "/uploads/favicon-49c36aebbd44.png",
+              "tags": [],
+              "previewImage": "/uploads/preview-tik128-com-2b7c11f236f5.webp"
+            },
+            {
+              "id": "site_1769824199354_rjabkngfg",
+              "title": "链客跨境导航",
+              "description": "访问 www.linke123.com",
+              "url": "https://www.linke123.com/",
+              "icon": "/assets/favicon_1769824178211.png",
+              "tags": []
+            },
+            {
+              "id": "site_1769824253608_hkz3t9ex3",
+              "title": "AI工具集官网",
+              "description": "AI工具集官网收录了国内外数百个AI工具，该导航网站包括AI写作工具、AI图像生成和背景移除、AI视频制作、AI音频转录、AI辅助编程、AI音乐生成、AI绘画设计、AI对话聊天等AI工具集合大全，以及AI学习开发的常用网站、框架和模型，帮助你加入人工智能浪潮，自动化高效完成任务！",
+              "url": "https://ai-bot.cn/",
+              "icon": "/uploads/favicon-daf3df7e66f7.png",
+              "tags": [],
+              "previewImage": "/uploads/preview-ai-bot-cn-38cc76d69896.webp"
+            },
+            {
+              "id": "site_1769824294883_dz2979ggn",
+              "title": "程序员盒子",
+              "description": "访问 www.coderutil.com",
+              "url": "https://www.coderutil.com/",
+              "icon": "/assets/favicon_1769824282321.png",
+              "tags": []
+            },
+            {
+              "id": "site_1769824362459_r7ouetzs1",
+              "title": "斑马ERP",
+              "description": "斑马ERP是一款免费跨境电商ERP系统软件，深度对接亚马逊Amazon，日本乐天Rakuten，雅虎Yahoo，趣天Qoo10，Shopify，店匠Shoplazza，TikTok，Fordeal，Coupang，WooCommerce等跨境电商平台及独立站，致力于解决跨境电商卖家痛点，帮助跨境电商卖家更加灵活高效地处理跨境电商业务，帮助跨境卖家实现多平台多店铺高效运营。",
+              "url": "https://123.banmaerp.com/",
+              "icon": "/uploads/favicon-adfeb808f488.ico",
+              "tags": [],
+              "previewImage": "/uploads/preview-123-banmaerp-com-d8e59264d7fd.webp"
+            },
+            {
+              "id": "site_1769824410110_5t9d0w80g",
+              "title": "自媒体维基",
+              "description": "一个为设计、产品、新媒体、开发、人工智能AI、旅游服务、教师等行业定制的导航网站，不求最全但求最优质的的导航页面，整站链接全部是人工手工测试添加。",
+              "url": "https://www.zmt.wiki/",
+              "icon": "/uploads/favicon-21ebb2420d12.png",
+              "tags": [],
+              "previewImage": "/uploads/preview-www-zmt-wiki-00994f295a5e.webp"
+            },
+            {
+              "id": "site_1769824438724_ibv9z8rkv",
+              "title": "菜鸟工具",
+              "description": "菜鸟工具，为开发设计人员提供在线工具，网址导航，提供在线PHP、Python、 CSS、JS 调试，中文简繁体转换，进制转换等工具。致力于打造国内专业WEB开发工具，集成开发环境，WEB开发教程。..",
+              "url": "https://www.jyshare.com/",
+              "icon": "/uploads/favicon-ca0d612c52ae.ico",
+              "tags": [],
+              "previewImage": "/uploads/preview-www-jyshare-com-e2af81f6cb3c.webp"
+            },
+            {
+              "id": "site_1769824492644_os047hh2a",
+              "title": "TKTOC跨境导航",
+              "description": "TKTOC跨境导航是为TikTok等海外社媒卖家提供的专业一站式的运营必备工具箱，面向海外社媒运营者以及跨境出海卖家，提供海外社媒运营、学习教程、工具、直播、变现、数据分析、广告投放、社媒营销等一站式的TikTok等海外社媒运营必备工具，让跨境出海更简单、更便捷！",
+              "url": "https://www.tktoc.com/",
+              "icon": "/uploads/favicon-1e81efd65d21.ico",
+              "tags": [],
+              "previewImage": "/uploads/preview-www-tktoc-com-1a4aeed0c956.webp"
+            },
+            {
+              "id": "site_1769824571429_cry6m0207",
+              "title": "TKEVO运营导航",
+              "description": "TKEVO跨境导航是一家专注TikTok跨境电商运营的导航网站，致力为卖家打破信息差和资源差，及时收录卖家运营必备工具、汇集服务生态资源等必备跨境服务，提供TikTok运营、学习教程、工具、直播、变现、数据分析、广告投放、社媒营销等一站式的TikTok运营必备工具，让跨境出海更简单！TikTok出海，就上TKEVO.COM。",
+              "url": "https://www.tkevo.com/#term-34",
+              "icon": "/uploads/favicon-72e261d3bfd9.png",
+              "tags": [],
+              "previewImage": "/uploads/preview-www-tkevo-com-9dd20c44443a.webp"
+            },
+            {
+              "id": "site_1769824596837_9geebdwv9",
+              "title": "飞猪AI导航",
+              "description": "访问 feizhuke.com",
+              "url": "https://feizhuke.com/",
+              "icon": "/assets/favicon_1769824586269.png",
+              "tags": []
+            },
+            {
+              "id": "site_1769824640061_hhp312xoj",
+              "title": "AI工具箱",
+              "description": "AI工具箱是一款免费在线AI工具合集，包含各种实用的AI工具，让您在工作和生活中更加高效和便捷。访AI工具箱官网，体验最新最全的AI工具，助力您的科技创新和实践 | AILOOKME",
+              "url": "https://www.ailookme.com/",
+              "icon": "/uploads/favicon-4306204b8d8d.png",
+              "tags": [],
+              "previewImage": "/uploads/preview-www-ailookme-com-314d655e8829.webp"
+            },
+            {
+              "id": "site_1769824683709_hh8lq2dja",
+              "title": "百大AI应用",
+              "description": "访问 www.turingscat.com",
+              "url": "https://www.turingscat.com/ai-top-100",
+              "icon": "/assets/favicon_1769824662541.png",
+              "tags": []
+            },
+            {
+              "id": "site_1769824759589_pkxf6pclr",
+              "title": "AIGC工具导航",
+              "description": "AIGC工具导航站（www.aigc.cn）简称：AIGC导航，一个全网分类最全、收录最全的生成式AI工具导航，分类包括AI写作、AI绘画、AI视频、AI办公、AI数字人、AI设计、AI语音、AI音乐、AI论文、AI简历、AI智能体、文本转语音等。AIGC导航提供一站式AI工具导航服务，帮助用户快速找到能够提升工作效率和创作生产力能力的AI工具。找AI工具，就上AIGC工具导航！",
+              "url": "https://www.aigc.cn/",
+              "icon": "/uploads/favicon-c96677efc3b1.png",
+              "tags": [],
+              "previewImage": "/uploads/preview-www-aigc-cn-ff5d7c9cb2fe.webp"
+            },
+            {
+              "id": "site_1769825042113_8yt9nnem2",
+              "title": "NavSphere导航",
+              "description": "收集国内外优秀设计网站、UI设计资源网站、灵感创意网站、素材资源网站，定时更新分享优质产品设计书签。",
+              "url": "https://nav.newkit.site/",
+              "icon": "/uploads/favicon-2e47237d9079.webp",
+              "tags": [],
+              "previewImage": "/uploads/preview-nav-newkit-site-00994f295a5e.webp"
+            },
+            {
+              "id": "site_1769825180304_frwsunaxo",
+              "title": "IT Tools",
+              "description": "",
+              "url": "https://huahan.cc/it-tools/",
+              "icon": "/uploads/favicon-affa58ddffaa.ico",
+              "tags": [],
+              "previewImage": "/uploads/preview-huahan-cc-64497f728cb6.webp"
+            },
+            {
+              "id": "site_1771926152767_1a3o66j0h",
+              "title": "See-tool",
+              "description": "访问 see-tool.com",
+              "url": "https://see-tool.com",
+              "icon": "/assets/favicon_1771926135234.png",
+              "tags": []
+            },
+            {
+              "id": "site_1773383351889_fzexhz3fh",
+              "title": "UU在线工具",
+              "description": "UU在线工具（UU工具箱）提供数百款便捷实用的在线工具，覆盖文本处理、图像编辑、编程辅助、音视频处理等多个领域，无需注册登录及下载，即开即用，轻松应对各种日常数据处理需求。",
+              "url": "https://uutool.cn/",
+              "icon": "/uploads/favicon-60bea2cf3de8.jpg",
+              "tags": [],
+              "previewImage": "/uploads/preview-uutool-cn-19b83956d5de.webp"
+            }
+          ]
+        },
+        {
+          "id": "2a14e842-2618-4418-a5c0-6f18dab729a3",
+          "name": "工具集合",
+          "icon": "📄",
+          "description": "工具集合",
+          "sites": [
+            {
+              "id": "site_1769961598301_n8a95uszb",
+              "title": "油猴",
+              "description": "",
+              "url": "https://sleazyfork.org/zh-CN",
+              "icon": "/assets/favicon_1769961587428.png",
+              "tags": []
+            },
+            {
+              "id": "site_1769961636717_15heoanz8",
+              "title": "JetBrains Marketplace",
+              "description": "Welcome to JetBrains Marketplace",
+              "url": "https://plugins.jetbrains.com/",
+              "icon": "/uploads/favicon-a95a262ebc77.ico",
+              "tags": [],
+              "previewImage": "/uploads/preview-plugins-jetbrains-co-18940a1e0b6a.webp"
+            },
+            {
+              "id": "site_1769961687981_8eapsm4ft",
+              "title": "异常教程",
+              "description": "异常教程（www.exception.site）提供各类编程技术系列教程,让您能够学习并提高自己的编程技术.",
+              "url": "https://www.exception.site/",
+              "icon": "/assets/favicon_1769961680958.ico",
+              "tags": [],
+              "previewImage": "/uploads/preview-www-exception-site-e2e1fccb7d32.webp"
+            },
+            {
+              "id": "site_1769961750765_z5yz9ies8",
+              "title": "IDEA激活码2025",
+              "description": "IDEA激活码2025,IDEA激活码2026,IDEA激活码2024,IDEA激活码2023,IDEA激活码2022",
+              "url": "https://www.ajihuo.com/idea/5937.html",
+              "icon": "/uploads/favicon-852824c5e702.png",
+              "tags": [],
+              "previewImage": "/uploads/preview-www-ajihuo-com-7f8525f52999.webp"
+            },
+            {
+              "id": "site_1771926485148_519ncd1c9",
+              "title": "sparkdownloader",
+              "description": "免费在线媒体下载工具，支持公开视频、音频、图文内容与 HLS/M3U8 串流链接识别和下载，无需注册。",
+              "url": "https://downloader.bhwa233.com/zh",
+              "icon": "/uploads/favicon-69be6f68e768.ico",
+              "tags": [],
+              "previewImage": "/uploads/preview-downloader-bhwa233-c-59e9866ecd49.webp"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1769790991972",
+      "name": "项目网站",
+      "icon": "📊",
+      "description": "项目网站",
+      "children": [
+        {
+          "id": "3f11ad77-9617-48d8-aef3-da23d681d3f6",
+          "name": "开源框架",
+          "icon": "📈",
+          "description": "开源框架",
+          "sites": [
+            {
+              "id": "site_1769830175115_zt9icqi7m",
+              "title": "RuoYi",
+              "description": "使用若依快速构建web应用程序",
+              "url": "https://doc.ruoyi.vip/",
+              "icon": "/uploads/favicon-67834c776d53.ico",
+              "tags": [],
+              "previewImage": "/uploads/preview-doc-ruoyi-vip-040a378b84d2.webp"
+            },
+            {
+              "id": "site_1769830193658_w50du5ql6",
+              "title": "人人开源",
+              "description": "renren-security、renren-fast是人人开源社区采用Spring、MyBatis、Shiro编写的后台脚手架框架，支持MySQL、Oracle、SQL Server、PostgreSQL数据库，支持分布式部署，能够有效降低企业开发成本，提升开发效率",
+              "url": "https://www.renren.io/",
+              "icon": "/uploads/favicon-98d11b0c1076.ico",
+              "tags": [],
+              "previewImage": "/uploads/preview-www-renren-io-58c47bf2db51.webp"
+            },
+            {
+              "id": "site_1769830212051_hx5v4ryhi",
+              "title": "JEECG官方网站",
+              "description": "JeecgBoot AI低代码平台，基于SpringBoot+Ant Design的前后端分离微服务架构,集成完善的工作流平台、强大的代码生成器、流程设计器、表单设计器、大屏设计器、报表门户设计，可以应用在任何J2EE项目开发中，尤其适合企业信息管理系统（MIS）、办公系统（OA）、企业资源计划系统（ERP）、客户关系管理系统（CRM）等，其半智能+手工Merge的低代码开发方式，可以显著提高开发效率70%以上，极大降低研发成本。",
+              "url": "https://www.jeecg.com/",
+              "icon": "/uploads/favicon-2d051e534e2c.ico",
+              "tags": [],
+              "previewImage": "/uploads/preview-www-jeecg-com-0ae7dc365f05.webp"
+            },
+            {
+              "id": "site_1769830229740_53btdt2gs",
+              "title": "JeeSite 快速开发平台",
+              "description": "JeeSite 是 Spring Boot 目前最好的快速开发平台, Java 开源框架, 使用经典技术组合：SpringBoot、SpringCloud、MyBatis、Shiro、Beetl、Bootstrap、AdminLTE 等、前后分离版采用 Vue3、Vite、Ant Design Vue。深度融合 AI 人工智能 + RAG 技术，支持 Spring AI、大模型、知识库检索、Tool Calling、MCP 协议。包括：用户, 权限, BPM, IAM, Cloud, AI",
+              "url": "https://www.jeesite.com/",
+              "icon": "/uploads/favicon-95ca43597c52.png",
+              "tags": [],
+              "previewImage": "/uploads/preview-www-jeesite-com-a88f8e623243.webp"
+            },
+            {
+              "id": "site_1769830246755_03z1n4oer",
+              "title": "ELADMIN 在线文档",
+              "description": "一个简单且易上手的 Spring boot 后台管理框架",
+              "url": "https://eladmin.vip/",
+              "icon": "/uploads/favicon-cd362d475125.png",
+              "tags": [],
+              "previewImage": "/uploads/preview-eladmin-vip-7d5d6f4340cb.webp"
+            },
+            {
+              "id": "site_1769830267387_fnhlcuqem",
+              "title": "SmartAdmin",
+              "description": "SmartAdmin 是由【1024创新实验室】使用基于SpringBoot + Sa-Token + Mybatis-Plus 和 Vue3 + Vite5 + Ant Design Vue 4 (同时支持JavaScript和TypeScript双版本) 并以高质量代码为核心、简洁、高效、安全的快速开发平台！ 我开源一套漂亮的代码和一套整洁的代码规范，让大家在这浮躁的代码世界里感受到一股把代码写好的清流！同时又让开发者节省大量的时间，减少加班，快乐工作，热爱代码，更热爱生活。",
+              "url": "https://smartadmin.vip/",
+              "icon": "/uploads/favicon-815fe7cbf96c.png",
+              "tags": [],
+              "previewImage": "/uploads/preview-smartadmin-vip-96f8bad4b2c3.webp"
+            },
+            {
+              "id": "site_1769830297395_bz2ipavu7",
+              "title": "JeeSpringCloud",
+              "description": "访问 gitee.com",
+              "url": "https://gitee.com/JeeHuangBingGui/jeeSpringCloud",
+              "icon": "/uploads/favicon-2d1a42d09447.ico",
+              "tags": [],
+              "previewImage": "/uploads/preview-gitee-com-787e5af0b000.webp"
+            },
+            {
+              "id": "site_1769830324796_ndpmb39wk",
+              "title": "BladeX 快速开发平台 · 官方网站 · 基于 SpringBoot / SpringCloud 的企业级微服务平台",
+              "description": "BladeX 是一个 SpringBoot 快速开发平台，采用 SpringBoot、SpringCloud、Mybatis、Vue、React 等核心技术,用于快速搭建企业级的 SaaS 多租户微服务平台。集成 Nacos、Flowable 工作流、Seata、Sentinel、OSS 与 AI 全栈能力，沉淀自千家企业生产实战。",
+              "url": "https://bladex.cn/#/",
+              "icon": "/uploads/favicon-05763c1415f9.png",
+              "tags": [],
+              "previewImage": "/uploads/preview-bladex-cn-5b93ed876c06.webp"
+            },
+            {
+              "id": "site_1769830347669_xg9il1kcv",
+              "title": "Javaguns",
+              "description": "访问 www.javaguns.com",
+              "url": "https://www.javaguns.com/",
+              "icon": "/assets/favicon_1769830341903.png",
+              "tags": []
+            },
+            {
+              "id": "site_1769830375108_zylfsx7xp",
+              "title": "Erupt",
+              "description": "Open source low-code framework, zero frontend code, pure annotation development admin system!",
+              "url": "https://www.erupt.xyz/#!/",
+              "icon": "/uploads/favicon-c45b4772675c.ico",
+              "tags": [],
+              "previewImage": "/uploads/preview-www-erupt-xyz-8c5f28cbd704.webp"
+            },
+            {
+              "id": "site_1769830397196_zatltcvcr",
+              "title": "pig",
+              "description": "访问 gitee.com",
+              "url": "https://gitee.com/log4j/pig",
+              "icon": "/uploads/favicon-2d1a42d09447.ico",
+              "tags": [],
+              "previewImage": "/uploads/preview-gitee-com-fe9539b45ce9.webp"
+            },
+            {
+              "id": "site_1769830420940_fw32yct6c",
+              "title": "zheng",
+              "description": "访问 gitee.com",
+              "url": "https://gitee.com/shuzheng/zheng",
+              "icon": "/uploads/favicon-2d1a42d09447.ico",
+              "tags": [],
+              "previewImage": "/uploads/preview-gitee-com-e1652923a2c1.webp"
+            },
+            {
+              "id": "site_1769830439997_zj897ce1y",
+              "title": "开源字节快速开发平台",
+              "description": "访问 gitee.com",
+              "url": "https://gitee.com/open-source-byte/source-vue",
+              "icon": "/uploads/favicon-2d1a42d09447.ico",
+              "tags": [],
+              "previewImage": "/uploads/preview-gitee-com-fa873c1ab7e0.webp"
+            },
+            {
+              "id": "site_1769831032536_sya29me2s",
+              "title": " pageplug",
+              "description": "PagePlug 是 Appsmith 的中国化项目。基于Appsmith做了整体性能的优化及汉化，也集合了特色表单解决方案Formily组件、图表解决方案Echarts组件、低代码小程序开发等，是面向研发使用的一个开源的、声明式的前后端一体低代码，项目逻辑主要是在前端的解释器和设计器上",
+              "url": "https://gitee.com/cloudtogo/pageplug?url=eflyos.zip",
+              "icon": "/uploads/favicon-2d1a42d09447.ico",
+              "tags": [],
+              "previewImage": "/uploads/preview-gitee-com-6fd12a2bc8ae.webp"
+            }
+          ]
+        },
+        {
+          "id": "78e3576c-b2be-4593-8080-878275817a4a",
+          "name": "开源平台",
+          "icon": "📖",
+          "description": "开源平台",
+          "sites": [
+            {
+              "id": "site_1769830475102_49nsnhcjg",
+              "title": "一飞开源",
+              "description": "不飞则已，一飞冲天；不鸣则已，一鸣惊人！介绍创意、新奇、有趣、实用的开源应用、系统、软件、硬件及技术，提供了一个探索、发现、分享、使用与互动交流的开源技术平台。一飞开源致力于打造共建、共享、共治的开源社区。",
+              "url": "https://code.exmay.com/exmay/ugc/article",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=code.exmay.com",
+              "tags": [],
+              "previewImage": "/uploads/preview-code-exmay-com-6d899783fe76.webp"
+            },
+            {
+              "id": "site_1769830516044_728rfmjr3",
+              "title": "基于 layui 的极简社区页面模版",
+              "description": "ONE源码提供毕业设计系统,网站HTML模板,java管理后台模板,jQuery插件,在线工具,为广大网友的开发工作提供便利。",
+              "url": "https://www.oneyuanma.com/index.html",
+              "icon": "/uploads/favicon-a2fa9ef91422.ico",
+              "tags": [],
+              "previewImage": "/uploads/preview-www-oneyuanma-com-fff47d92ca13.webp"
+            },
+            {
+              "id": "site_1769830550997_ed732t1u1",
+              "title": "当牛作码",
+              "description": "当牛作码 www.xiaoniucr.com 最专业的源代码分享网站，每天都会更新java精品源码",
+              "url": "http://www.xiaoniucr.com/index.html",
+              "icon": "/uploads/favicon-2b62ac52e5f7.ico",
+              "tags": [],
+              "previewImage": "/uploads/preview-www-xiaoniucr-com-b34b89bb5b9c.webp"
+            },
+            {
+              "id": "site_1769830584261_n6z4leh2p",
+              "title": "OSCHINA",
+              "description": "访问 www.oschina.net",
+              "url": "https://www.oschina.net/",
+              "icon": "/uploads/favicon-0a74948cd705.ico",
+              "tags": [],
+              "previewImage": "/uploads/preview-www-oschina-net-1a716eab93aa.webp"
+            },
+            {
+              "id": "site_1769830620477_6s5d2keqr",
+              "title": "淘源码",
+              "description": "淘源码，免费源码，源码下载，源码，java源码，.net源码，PHP源码，c#源码，网站源码，源码网，小程序源码，APP源码，软件源码，商业源码，源码分享，安卓源码，",
+              "url": "http://www.ydmdd.com/CodeIndex",
+              "icon": "/uploads/favicon-35c088189509.png",
+              "tags": [],
+              "previewImage": "/uploads/preview-www-ydmdd-com-418f88c31fa3.webp"
+            },
+            {
+              "id": "site_1769830662669_e9uywjn3h",
+              "title": "GitHub猿",
+              "description": "访问 mp.weixin.qq.com",
+              "url": "https://mp.weixin.qq.com/s/WlmkaNMkmrHtAUsEk1Xzuw",
+              "icon": "/assets/favicon_1769830639617.png",
+              "tags": []
+            },
+            {
+              "id": "site_1769830686533_zkp5nxmtr",
+              "title": "Java项目分享",
+              "description": "访问 mp.weixin.qq.com",
+              "url": "https://mp.weixin.qq.com/s/6nfd_lWpVNpUXdZFepCJug",
+              "icon": "/assets/favicon_1769830675449.png",
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "33b970a4-ac90-4357-bb52-00f1bc5eeca3",
+          "name": "开源项目",
+          "icon": "📁",
+          "description": "开源项目",
+          "sites": [
+            {
+              "id": "site_1769830807582_rqdjiiln5",
+              "title": "Open-Shop小程序商城",
+              "description": "基于springboot 改造 open-shop小程序商城，包括：分销（支持三级）、团购（拼多多模式）、秒杀、优惠券、等功能，前后端全部开源。做全网最开源、最稳定、功能做强大的开源小程序商城。微信小程序后台地址。 qq群：1017040237。",
+              "url": "https://gitee.com/wewwww/open_shop_applet_mall?_from=gitee_search#https://gitee.com/link?target=http%3A%2F%2Fip%257C%25E5%259F%259F%25E5%2590%258D%2F%25E9%25A1%25B9%25E7%259B%25AE%25E5%258F%2591%25E5%25B8%2583%25E5%2590%258D%2F",
+              "icon": "/uploads/favicon-2d1a42d09447.ico",
+              "tags": [],
+              "previewImage": "/uploads/preview-gitee-com-37d4058d360f.webp"
+            },
+            {
+              "id": "site_1769830892743_sdryd6g82",
+              "title": "ZKMALL-B2B2C多商户电商Java商城后台",
+              "description": "🔥🔥🔥【zkmall商城】B2B2C多商户商城系统、采用Springboot3+Vue3+Uniapp等最新框架、2025最新B2B2C、小程序商城、APP电商、PC电商模板，前后端分离技术实现，支持Docker部署、系统支持拼团、折扣、秒杀、砍价、优惠卷、分销、套餐满减、多商户、直播、模板切换、装修、微信支付、支付宝支付、跨境支付、等商城营销功能。官网：https://mallzk.com",
+              "url": "https://gitee.com/zkmall/b2b2c",
+              "icon": "/uploads/favicon-2d1a42d09447.ico",
+              "tags": [],
+              "previewImage": "/uploads/preview-gitee-com-29189a00742b.webp"
+            },
+            {
+              "id": "site_1769830970102_0xak2evoo",
+              "title": "生鲜商城kxmall",
+              "description": "🔥🔥kxmall-生鲜商城+APP+小程序+H5🔥🔥同时支持微信小程序、H5、安卓App、苹果App。支持集群部署，单机部署。可用于B2C商城，O2O外卖，社区超市，生鲜【带配套骑手端配送系统】。kxmall使用uniapp编码。使用Java开发,SpringBoot 2.1.x框架，MyBatis-plus持久层框架、Redis作为缓存、MySql作为数据库。前端vuejs作为开发语言。",
+              "url": "https://gitee.com/zhengkaixing/kxmall",
+              "icon": "/uploads/favicon-2d1a42d09447.ico",
+              "tags": [],
+              "previewImage": "/uploads/preview-gitee-com-08af64c10292.webp"
+            },
+            {
+              "id": "site_1769831003392_iiruyzy5m",
+              "title": "微信小程序兼职平台以及问答悬赏平台的整合项目",
+              "description": "微信小程序兼职平台以及问答悬赏平台的整合项目",
+              "url": "https://gitee.com/OHUHO/part-time-platform",
+              "icon": "/uploads/favicon-2d1a42d09447.ico",
+              "tags": [],
+              "previewImage": "/uploads/preview-gitee-com-b5a7203c845f.webp"
+            },
+            {
+              "id": "site_1769932118131_stbuzy6y5",
+              "title": "微信小程序兼职平台以及问答悬赏平台",
+              "description": "访问 gitee.com",
+              "url": "https://gitee.com/OHUHO/part-time-platform",
+              "icon": "/uploads/favicon-2d1a42d09447.ico",
+              "tags": [],
+              "previewImage": "/uploads/preview-gitee-com-b5a7203c845f.webp"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
