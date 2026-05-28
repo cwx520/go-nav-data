@@ -317,8 +317,9 @@
               "title": "猿急送",
               "description": "访问 www.yuanjisong.com",
               "url": "https://www.yuanjisong.com/",
-              "icon": "/assets/favicon_1769960883162.png",
-              "tags": []
+              "icon": "/uploads/logo-fubn7f.png",
+              "tags": [],
+              "previewImage": "/uploads/preview-www-yuanjisong-com-efdec5248b02.webp"
             },
             {
               "id": "site_1769960978990_gocx0k4ko",
@@ -392,8 +393,9 @@
               "title": "Checkpass论文查重系统",
               "description": "",
               "url": "https://www.dox110.com/cc/checkpass/index.html",
-              "icon": "/assets/favicon_1769930195545.png",
-              "tags": []
+              "icon": "/uploads/checkpass-3zy438.png",
+              "tags": [],
+              "previewImage": "/uploads/preview-www-dox110-com-b02614feb155.webp"
             },
             {
               "id": "site_1769930384313_ubfs5a5q2",
@@ -409,7 +411,7 @@
               "title": "免费论文查重",
               "description": "",
               "url": "https://jike777.com/duplicate/card/index/",
-              "icon": "/assets/favicon_1769930400755.ico",
+              "icon": "/uploads/logo-1-zvovcj.png",
               "tags": [],
               "previewImage": "/uploads/preview-jike777-com-870130b2af2b.webp"
             },
@@ -427,7 +429,7 @@
               "title": "论文查重率检测系统",
               "description": "PaperPass专业论文查重系统，系统采用智能解析技术，精准定位重复段落并可视化呈现相似内容，自动生成多版本降重方案，论文查重率的精准定位。",
               "url": "https://www.paperpass.com/upload",
-              "icon": "/assets/favicon_1769930486935.png",
+              "icon": "/uploads/pp-logo-kxjige.png",
               "tags": [],
               "previewImage": "/uploads/preview-www-paperpass-com-64fccf75136e.webp"
             },
@@ -637,7 +639,7 @@
               "title": "百度网盘",
               "description": "",
               "url": "https://pan.baidu.com",
-              "icon": "/assets/favicon_1769918223839.png",
+              "icon": "/uploads/wp-logo-ad8119c1-72gxoq.png",
               "tags": [],
               "previewImage": "/uploads/preview-pan-baidu-com-d720586f97a6.webp"
             },
@@ -672,8 +674,9 @@
               "title": "Canva",
               "description": "访问 www.canva.cn",
               "url": "https://www.canva.cn/templates/",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.canva.cn",
-              "tags": []
+              "icon": "/uploads/f9657e6b25961d7a7d94cb78c019-x98f6f.svg",
+              "tags": [],
+              "previewImage": "/uploads/preview-www-canva-cn-07fd3945bb7b.webp"
             },
             {
               "id": "site_1769931402691_lak5zabqn",
@@ -1302,8 +1305,9 @@
               "title": "LeetCode Cookbook",
               "description": "访问 books.halfrost.com",
               "url": "https://books.halfrost.com/leetcode/ChapterOne/",
-              "icon": "/assets/favicon_1769825974283.png",
-              "tags": []
+              "icon": "/uploads/icon-ulv16a.png",
+              "tags": [],
+              "previewImage": "/uploads/preview-books-halfrost-com-bb40d968c7ae.webp"
             },
             {
               "id": "site_1769826026869_kj2s3d4dx",
