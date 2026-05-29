@@ -17,7 +17,7 @@
               "title": "cmo博客",
               "description": "Description",
               "url": "https://cwx520.github.io/notes/#/README",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=cwx520.github.io",
+              "icon": "/uploads/backgroup2-dywebb.png",
               "tags": [],
               "previewImage": "/uploads/preview-cwx520-github-io-8e156d3fba7a.webp"
             },
@@ -26,7 +26,7 @@
               "title": "宝塔面板·腾讯云专享版",
               "description": "访问 159.75.33.167",
               "url": "http://159.75.33.167:8888/chengyuan",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=159.75.33.167",
+              "icon": "/uploads/logo-green-jkqevc.svg",
               "tags": [],
               "previewImage": "/uploads/preview-159-75-33-167-ca03dc93dabc.webp"
             },
@@ -35,15 +35,16 @@
               "title": "cloudflare",
               "description": "访问 dash.cloudflare.com",
               "url": "https://dash.cloudflare.com/837d63ba4df92f38e7e3d54fd9ce70a5/pages/view/navsphere",
-              "icon": "/assets/favicon_1769821778120.png",
-              "tags": []
+              "icon": "/uploads/snipaste-2026-05-30-00-23-59-zy1euo.png",
+              "tags": [],
+              "previewImage": "/uploads/preview-dash-cloudflare-com-01836d63a656.webp"
             },
             {
               "id": "site_1769821731276_mttugwksa",
               "title": "NavSphere",
               "description": "A modern navigation platform",
               "url": "https://navsphere-94m.pages.dev/admin",
-              "icon": "https://navsphere-94m.pages.dev/favicon.ico",
+              "icon": "/uploads/alogo-4hz2i1.webp",
               "tags": [],
               "previewImage": "/uploads/preview-navsphere-94m-pages-5e3f2e3277ac.webp"
             },
@@ -490,7 +491,7 @@
               "title": "会员登陆",
               "description": "<block name=",
               "url": "https://www.ngrok.cc/login.html",
-              "icon": "https://www.ngrok.cc/favicon.ico",
+              "icon": "/uploads/hk-introduction-hover-ozozun.jpg",
               "tags": [],
               "previewImage": "/uploads/preview-www-ngrok-cc-e2cb3783983e.webp"
             },
@@ -516,7 +517,7 @@
               "title": "ngrok Log in",
               "description": "Sign in to ngrok to manage your tunnels, custom domains, endpoints, and API gateways. Authenticate with email, GitHub, Google, or your organization&#x27;s SSO.",
               "url": "https://dashboard.ngrok.com/login?state=prOzf1iV82oR_we6VL0vnZPR0iutQjOWq0d516myvL316a3YV9EqScOMfsoPti0HPg5t9_JT6CLj-9gICxRDCel0SQEArZfupgXY6TT4E8ZtyxjMsbXHYnA8xCMC5oRjEGjGDXMKT0jhjP-fGcwncGkh5i85wzq4Gr2dTIEmWM7M",
-              "icon": "/assets/favicon_1769918328425.png",
+              "icon": "/uploads/snipaste-2026-05-30-00-27-19-d2uyqu.png",
               "tags": [],
               "previewImage": "/uploads/preview-dashboard-ngrok-com-d276a39eb04d.webp"
             },
@@ -887,7 +888,7 @@
               "title": "小新's Blog",
               "description": "小新's Blog - 要向一颗微不足道的小星学习，可以微弱，但要有光",
               "url": "https://liuwqtech.github.io/",
-              "icon": "https://qn.liuwqtech.top/008i3skNgy1gpw51zrippj305k05k74p.jpg",
+              "icon": "/uploads/snipaste-2026-05-30-00-28-33-7ol9ut.png",
               "tags": [],
               "previewImage": "/uploads/preview-liuwqtech-github-io-df664ea8ea33.webp"
             }
@@ -922,7 +923,7 @@
               "title": "面试鸭",
               "description": "面试鸭是国内领先的程序员面试刷题平台，汇集10000+道2026最新Java、前端、C++、Python、Go、数据库、算法、计算机网络面试真题及详细题解。覆盖阿里、腾讯、字节、美团等大厂高频八股文。助力校招、社招、实习求职者快速通关技术面试，高效提升编程能力，轻松拿offer！",
               "url": "https://www.mianshiya.com/",
-              "icon": "/assets/favicon_1769839385934.png",
+              "icon": "/uploads/snipaste-2026-05-30-00-29-55-avjlta.png",
               "tags": [],
               "previewImage": "/uploads/preview-www-mianshiya-com-8253f0c6744b.webp"
             }
@@ -1010,8 +1011,9 @@
               "title": "Hello-algo",
               "description": "Hello 算法",
               "url": "https://www.hello-algo.com/chapter_hello_algo/",
-              "icon": "/assets/favicon_1769839193656.png",
-              "tags": []
+              "icon": "/uploads/snipaste-2026-05-30-00-30-36-b0ijan.png",
+              "tags": [],
+              "previewImage": "/uploads/preview-www-hello-algo-com-65a4b940c819.webp"
             },
             {
               "id": "site_1769839236373_6eqoqu2zk",
@@ -1095,7 +1097,7 @@
               "title": "Kimi AI 官网",
               "description": "Kimi K2.6 模型发布！全新建站功能可生成极具设计感的网站，支持轻量后端模块；Agent 集群全面升级，Office 文档一键转可复用技能。Claw 群组同步开启内测，探索多 Agent 协作的全新可能。",
               "url": "https://www.kimi.com/",
-              "icon": "/assets/favicon_1769839581204.png",
+              "icon": "/uploads/snipaste-2026-05-30-00-31-31-t1b52b.png",
               "tags": [],
               "previewImage": "/uploads/preview-www-kimi-com-621c6c93390e.webp"
             },
@@ -1194,16 +1196,18 @@
               "title": "ChatGPT",
               "description": "访问 chat.openai.com",
               "url": "https://chat.openai.com/",
-              "icon": "/assets/favicon_1769931664841.png",
-              "tags": []
+              "icon": "/uploads/snipaste-2026-05-30-00-33-59-fevocl.png",
+              "tags": [],
+              "previewImage": "/uploads/preview-chat-openai-com-d40a41126c9f.webp"
             },
             {
               "id": "site_1769931698365_70txy1sc0",
               "title": "Midjourney",
               "description": "An independent research lab exploring new mediums of thought and expanding the imaginative powers of the human species.",
               "url": "https://www.midjourney.com/",
-              "icon": "/assets/favicon_1769931689669.png",
-              "tags": []
+              "icon": "/uploads/snipaste-2026-05-30-00-35-06-y3k9pg.png",
+              "tags": [],
+              "previewImage": "/uploads/preview-www-midjourney-com-cc1a83cc4ee6.webp"
             }
           ]
         },
@@ -1332,7 +1336,7 @@
               "title": "Spring Cloud Dalston 中文文档 参考手册 中文版",
               "description": "访问 www.springcloud.cc",
               "url": "https://www.springcloud.cc/spring-cloud-dalston.html",
-              "icon": "/assets/favicon_1769826084069.png",
+              "icon": "/uploads/snipaste-2026-05-30-00-36-40-zbb337.png",
               "tags": [],
               "previewImage": "/uploads/preview-www-springcloud-cc-229393429a4a.webp"
             },
@@ -1341,7 +1345,7 @@
               "title": "Spring Data JPA 中文文档 参考手册 中文版",
               "description": "",
               "url": "https://www.springcloud.cc/spring-data-jpa.html",
-              "icon": "/assets/favicon_1769826109374.png",
+              "icon": "/uploads/snipaste-2026-05-30-00-36-30-qzomax.png",
               "tags": [],
               "previewImage": "/uploads/preview-www-springcloud-cc-c8e93cfbde74.webp"
             },
@@ -1395,7 +1399,7 @@
               "title": "RabbitMQ Documentation",
               "description": "",
               "url": "https://www.rabbitmq.com/docs",
-              "icon": "/assets/favicon_1769826296666.png",
+              "icon": "/uploads/snipaste-2026-05-30-00-36-18-ofuner.png",
               "tags": [],
               "previewImage": "/uploads/preview-www-rabbitmq-com-a6eba8a6bb2f.webp"
             },
@@ -1467,7 +1471,7 @@
               "title": "Redis 命令参考 &mdash; Redis 命令参考",
               "description": "",
               "url": "http://doc.redisfans.com/",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=doc.redisfans.com",
+              "icon": "/uploads/snipaste-2026-05-30-00-36-54-r96q2v.png",
               "tags": [],
               "previewImage": "/uploads/preview-doc-redisfans-com-00994f295a5e.webp"
             },
@@ -1485,7 +1489,7 @@
               "title": "Kubernetes 文档",
               "description": "Kubernetes 是一个开源的容器编排引擎，用来对容器化应用进行自动部署、扩缩和管理。此开源项目由云原生计算基金会（CNCF）托管。",
               "url": "https://kubernetes.io/zh-cn/docs/home/",
-              "icon": "/assets/favicon_1769826560783.png",
+              "icon": "/uploads/snipaste-2026-05-30-00-38-10-3ljw8r.png",
               "tags": [],
               "previewImage": "/uploads/preview-kubernetes-io-83de260f4794.webp"
             },
@@ -1661,8 +1665,8 @@
             },
             {
               "id": "site_1769930717368_vmfbxc778",
-              "title": "PPT����",
-              "description": "PPT����",
+              "title": "PPT",
+              "description": "PPT",
               "url": "https://www.1ppt.com/xiazai/",
               "icon": "/uploads/favicon-fc12d3e104cf.ico",
               "tags": [],
@@ -1758,7 +1762,7 @@
               "title": "VS Code",
               "description": "访问 vscode.dev",
               "url": "https://vscode.dev/?vscode-lang=zh-cn",
-              "icon": "/assets/favicon_1769825135733.png",
+              "icon": "/uploads/snipaste-2026-05-30-00-39-27-nolvt4.png",
               "tags": [],
               "previewImage": "/uploads/preview-vscode-dev-dc23ab92696d.webp"
             },
@@ -1848,7 +1852,7 @@
               "title": "沐杉实用工具",
               "description": "沐杉实用工具为您提供json格式化,json代码压缩,json校验解析,json数组解析,json转xml,xml转json,json解析,json在线解析,json在线解析及格式化,unix时间戳转换,CSS美化压缩,json美化,json格式化输出,json数组,json实体类,json视图,程序加密解密等",
               "url": "http://tool.e-yn.com/",
-              "icon": "/assets/favicon_1769930848122.ico",
+              "icon": "/uploads/snipaste-2026-05-30-00-40-23-o9a11y.png",
               "tags": []
             },
             {
@@ -1859,15 +1863,6 @@
               "icon": "/uploads/favicon-e5011c8a71ff.ico",
               "tags": [],
               "previewImage": "/uploads/preview-tool-lu-2f38991f543d.webp"
-            },
-            {
-              "id": "site_1769931029392_xntiz3j2m",
-              "title": "时间时钟",
-              "description": "访问 www.24timemap.com",
-              "url": "http://www.24timemap.com/",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.24timemap.com",
-              "tags": [],
-              "previewImage": "/uploads/preview-www-24timemap-com-14b51bddb135.webp"
             },
             {
               "id": "site_1769931451318_12tnhbw40",
@@ -1914,15 +1909,6 @@
               "previewImage": "/uploads/preview-pc-vivo-com-5824488a0e7f.webp"
             },
             {
-              "id": "site_1769930576274_9jjf7minx",
-              "title": "��������������������",
-              "description": "��������������������",
-              "url": "https://www.t-x-m.com/SequenceMumberGenerator/RandomNumber.asp",
-              "icon": "/assets/favicon_1769930555642.png",
-              "tags": [],
-              "previewImage": "/uploads/preview-www-t-x-m-com-58c1d4a894ab.webp"
-            },
-            {
               "id": "site_1769930613750_0s9t21owv",
               "title": "在线抠图软件",
               "description": "remove.bg在线抠图软件轻松实现一键抠图，只需上传图片，无需其他操作，即可100%自动去除图片背景。",
@@ -1936,7 +1922,7 @@
               "title": "互传网页版",
               "description": "网页传无需数据线，只需要连接网络即可通过浏览器管理自己的安卓(android)手机数据和iphone手机数据，可以备份、还原、下载、上传安卓（android）数据和iphone手机数据。",
               "url": "http://as.vivo.com/",
-              "icon": "/uploads/favicon-e3b0c44298fc.ico",
+              "icon": "/uploads/snipaste-2026-05-30-00-41-36-5exjeb.png",
               "tags": [],
               "previewImage": "/uploads/preview-as-vivo-com-961331346aa2.webp"
             },
@@ -1972,7 +1958,7 @@
               "title": "软件安装站",
               "description": "访问 mp.weixin.qq.com",
               "url": "https://mp.weixin.qq.com/s/P8ZQ2JRCSzuHU_2OdV7z1A",
-              "icon": "/assets/favicon_1769931187203.png",
+              "icon": "/uploads/300-2-wwxrkr.png",
               "tags": []
             },
             {
@@ -1980,7 +1966,7 @@
               "title": "Some keys for testing",
               "description": "访问 3.jetbra.in",
               "url": "https://3.jetbra.in/",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=3.jetbra.in",
+              "icon": "/uploads/snipaste-2026-05-30-00-42-24-i5xtba.png",
               "tags": [],
               "previewImage": "/uploads/preview-3-jetbra-in-85007b4044b1.webp"
             }
@@ -2006,7 +1992,7 @@
               "title": "老朱工具箱",
               "description": "一个专门为独立开发者推荐实用工具，提升开发效率，启发创作灵感而打造的一站式资源、工具箱导航网站。",
               "url": "https://nav.ilaozhu.com/",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=nav.ilaozhu.com",
+              "icon": "/uploads/snipaste-2026-05-30-00-45-36-godr3v.png",
               "tags": [],
               "previewImage": "/uploads/preview-nav-ilaozhu-com-11f421181a58.webp"
             },
@@ -2018,14 +2004,6 @@
               "icon": "/uploads/favicon-49c36aebbd44.png",
               "tags": [],
               "previewImage": "/uploads/preview-tik128-com-2b7c11f236f5.webp"
-            },
-            {
-              "id": "site_1769824199354_rjabkngfg",
-              "title": "链客跨境导航",
-              "description": "访问 www.linke123.com",
-              "url": "https://www.linke123.com/",
-              "icon": "/assets/favicon_1769824178211.png",
-              "tags": []
             },
             {
               "id": "site_1769824253608_hkz3t9ex3",
@@ -2041,7 +2019,7 @@
               "title": "程序员盒子",
               "description": "访问 www.coderutil.com",
               "url": "https://www.coderutil.com/",
-              "icon": "/assets/favicon_1769824282321.png",
+              "icon": "/uploads/snipaste-2026-05-30-00-44-18-xe6kwv.png",
               "tags": []
             },
             {
@@ -2094,7 +2072,7 @@
               "title": "飞猪AI导航",
               "description": "访问 feizhuke.com",
               "url": "https://feizhuke.com/",
-              "icon": "/assets/favicon_1769824586269.png",
+              "icon": "/uploads/zhulogo123456789-lw3iym.png",
               "tags": []
             },
             {
@@ -2105,14 +2083,6 @@
               "icon": "/uploads/favicon-4306204b8d8d.png",
               "tags": [],
               "previewImage": "/uploads/preview-www-ailookme-com-314d655e8829.webp"
-            },
-            {
-              "id": "site_1769824683709_hh8lq2dja",
-              "title": "百大AI应用",
-              "description": "访问 www.turingscat.com",
-              "url": "https://www.turingscat.com/ai-top-100",
-              "icon": "/assets/favicon_1769824662541.png",
-              "tags": []
             },
             {
               "id": "site_1769824759589_pkxf6pclr",
@@ -2140,14 +2110,6 @@
               "icon": "/uploads/favicon-affa58ddffaa.ico",
               "tags": [],
               "previewImage": "/uploads/preview-huahan-cc-64497f728cb6.webp"
-            },
-            {
-              "id": "site_1771926152767_1a3o66j0h",
-              "title": "See-tool",
-              "description": "访问 see-tool.com",
-              "url": "https://see-tool.com",
-              "icon": "/assets/favicon_1771926135234.png",
-              "tags": []
             },
             {
               "id": "site_1773383351889_fzexhz3fh",
@@ -2188,7 +2150,7 @@
               "title": "异常教程",
               "description": "异常教程（www.exception.site）提供各类编程技术系列教程,让您能够学习并提高自己的编程技术.",
               "url": "https://www.exception.site/",
-              "icon": "/assets/favicon_1769961680958.ico",
+              "icon": "/uploads/171698116747384-ke11my.jpg",
               "tags": [],
               "previewImage": "/uploads/preview-www-exception-site-e2e1fccb7d32.webp"
             },
@@ -2299,14 +2261,6 @@
               "previewImage": "/uploads/preview-bladex-cn-5b93ed876c06.webp"
             },
             {
-              "id": "site_1769830347669_xg9il1kcv",
-              "title": "Javaguns",
-              "description": "访问 www.javaguns.com",
-              "url": "https://www.javaguns.com/",
-              "icon": "/assets/favicon_1769830341903.png",
-              "tags": []
-            },
-            {
               "id": "site_1769830375108_zylfsx7xp",
               "title": "Erupt",
               "description": "Open source low-code framework, zero frontend code, pure annotation development admin system!",
@@ -2364,7 +2318,7 @@
               "title": "一飞开源",
               "description": "不飞则已，一飞冲天；不鸣则已，一鸣惊人！介绍创意、新奇、有趣、实用的开源应用、系统、软件、硬件及技术，提供了一个探索、发现、分享、使用与互动交流的开源技术平台。一飞开源致力于打造共建、共享、共治的开源社区。",
               "url": "https://code.exmay.com/exmay/ugc/article",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=code.exmay.com",
+              "icon": "/uploads/logo-code-wqaixw.png",
               "tags": [],
               "previewImage": "/uploads/preview-code-exmay-com-6d899783fe76.webp"
             },
@@ -2409,15 +2363,16 @@
               "title": "GitHub猿",
               "description": "访问 mp.weixin.qq.com",
               "url": "https://mp.weixin.qq.com/s/WlmkaNMkmrHtAUsEk1Xzuw",
-              "icon": "/assets/favicon_1769830639617.png",
-              "tags": []
+              "icon": "/uploads/300-1-6q8o1t.png",
+              "tags": [],
+              "previewImage": "/uploads/preview-mp-weixin-qq-com-495373f77272.webp"
             },
             {
               "id": "site_1769830686533_zkp5nxmtr",
               "title": "Java项目分享",
               "description": "访问 mp.weixin.qq.com",
               "url": "https://mp.weixin.qq.com/s/6nfd_lWpVNpUXdZFepCJug",
-              "icon": "/assets/favicon_1769830675449.png",
+              "icon": "/uploads/300-6odcvg.png",
               "tags": []
             }
           ]
@@ -2474,6 +2429,18 @@
               "previewImage": "/uploads/preview-gitee-com-b5a7203c845f.webp"
             }
           ]
+        }
+      ]
+    },
+    {
+      "id": "8wv7o3",
+      "name": "页面收藏",
+      "description": "CSDN、公众号、Gitee",
+      "children": [
+        {
+          "id": "8wv7o3-default",
+          "name": "默认分类",
+          "sites": []
         }
       ]
     }
