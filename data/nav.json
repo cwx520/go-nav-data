@@ -69,16 +69,7 @@
       }
     ]
   },
-  "ads": [
-    {
-      "id": "ad-1778577116508",
-      "title": "雨云服务器",
-      "description": "",
-      "image": "https://blog.gotab.cn/upload/rainyun_ad.webp",
-      "url": "https://www.rainyun.com/gotab_",
-      "enabled": true
-    }
-  ],
+  "ads": [],
   "plugins": [],
   "layout": {
     "maxWidth": "1400",
@@ -93,5 +84,6 @@
   "adsAspectRatio": "16/9",
   "imageUpload": {
     "convertToWebp": false
-  }
+  },
+  "showAds": false
 }
